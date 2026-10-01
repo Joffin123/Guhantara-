@@ -1,0 +1,4196 @@
+{
+ "chapters": [
+  {
+   "id": "opening",
+   "num": "00",
+   "title": "Opening",
+   "summary": "The question, the scope and the finding",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "id": "business",
+   "num": "01",
+   "title": "The business problem",
+   "summary": "Demand without a brand, and a budget nobody can trace.",
+   "from": 5,
+   "to": 10
+  },
+  {
+   "id": "meta",
+   "num": "02",
+   "title": "The Meta account",
+   "summary": "₹14.94L, 1,259 leads, and half the spend running blind.",
+   "from": 11,
+   "to": 24
+  },
+  {
+   "id": "google",
+   "num": "03",
+   "title": "The Google account",
+   "summary": "₹30.72L, and a conversion number that is not real.",
+   "from": 25,
+   "to": 34
+  },
+  {
+   "id": "tracking",
+   "num": "04",
+   "title": "Tracking and CRM",
+   "summary": "Two pixels, one broken chain, and the system that is missing.",
+   "from": 35,
+   "to": 45
+  },
+  {
+   "id": "website",
+   "num": "05",
+   "title": "Website and landing pages",
+   "summary": "Where every rupee lands, and why a third of it never arrives.",
+   "from": 46,
+   "to": 55
+  },
+  {
+   "id": "creative",
+   "num": "06",
+   "title": "Creative and brand",
+   "summary": "What is running, what is working, and what Guhantara should stand for.",
+   "from": 56,
+   "to": 61
+  },
+  {
+   "id": "weekday",
+   "num": "07",
+   "title": "The weekday problem",
+   "summary": "Five buyers who are free on a Tuesday.",
+   "from": 62,
+   "to": 64
+  },
+  {
+   "id": "supperclub",
+   "num": "08",
+   "title": "Supperclub",
+   "summary": "10,000+ sign-ups, and what transfers to a resort.",
+   "from": 65,
+   "to": 66
+  },
+  {
+   "id": "plan",
+   "num": "09",
+   "title": "The plan",
+   "summary": "Six months, ninety days, what we measure and what we need.",
+   "from": 67,
+   "to": 72
+  },
+  {
+   "id": "close",
+   "num": "10",
+   "title": "Close",
+   "summary": "You already have the demand.",
+   "from": 73,
+   "to": 73
+  }
+ ],
+ "slides": [
+  {
+   "n": 1,
+   "chapter": "opening",
+   "title": "The account, opened up",
+   "notes": "Open on the number, not the pleasantries. The whole deck is built to answer one question: what did the spend buy? The honest answer is that nobody can currently say, and that is the finding worth paying to fix.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "ALTTRED NEXXUS  ×  GUHANTARA"
+    },
+    {
+     "type": "text",
+     "text": "A full audit of the brand, the website, the Meta account and the Google account — and what ₹45.65 lakh actually bought."
+    },
+    {
+     "type": "text",
+     "text": "1 January 2025 – 29 September 2026"
+    },
+    {
+     "type": "text",
+     "text": "Prepared 29 September 2026"
+    }
+   ],
+   "image": "/slides/slide-01.webp"
+  },
+  {
+   "n": 2,
+   "chapter": "opening",
+   "title": "What we looked at",
+   "notes": "Establish standing before making claims. The last card is the pivot: the biggest thing we could not audit is the thing they most need built.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The accounts"
+    },
+    {
+     "type": "text",
+     "text": "The property"
+    },
+    {
+     "type": "text",
+     "text": "21 months of Meta, broken out by month, age, gender, platform and placement. 19 months of Google, by month and by campaign type. Same window for both."
+    },
+    {
+     "type": "text",
+     "text": "The website, the booking engine, live room rates, 21,392 Google reviews, 317 TripAdvisor reviews and the twenty competing resorts on Kanakapura Road."
+    },
+    {
+     "type": "text",
+     "text": "The category"
+    },
+    {
+     "type": "text",
+     "text": "What we could not see"
+    },
+    {
+     "type": "text",
+     "text": "Hospitality social benchmarks for 2025–26, Indian travel discovery research, and how the properties that command a premium are positioned."
+    },
+    {
+     "type": "text",
+     "text": "Any CRM, because there is none. Any booking data, because none is captured. Which is the finding, not a gap in the audit."
+    },
+    {
+     "type": "text",
+     "text": "Every figure in this deck comes from the client's own accounts or a named public source."
+    }
+   ],
+   "image": "/slides/slide-02.webp"
+  },
+  {
+   "n": 3,
+   "chapter": "opening",
+   "title": "Guhantara has the demand of a category leader, the positioning of a commodity, and no way to tell which of its rupees worked.",
+   "notes": "This is the slide the room should remember. Say it once, pause, move on. Do not soften it: they already suspect it, which is why we were asked for this audit.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "THE FINDING"
+    },
+    {
+     "type": "text",
+     "text": "Three problems, one root. Everything that follows is evidence for that sentence and a plan to change it."
+    }
+   ],
+   "image": "/slides/slide-03.webp"
+  },
+  {
+   "n": 4,
+   "chapter": "opening",
+   "title": "What follows",
+   "notes": "Keep this to fifteen seconds. Its job is to tell the room that the audit covers everything, including the parts agencies usually skip.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "01"
+    },
+    {
+     "type": "text",
+     "text": "02"
+    },
+    {
+     "type": "text",
+     "text": "03"
+    },
+    {
+     "type": "text",
+     "text": "The business problem"
+    },
+    {
+     "type": "text",
+     "text": "The Meta account"
+    },
+    {
+     "type": "text",
+     "text": "The Google account"
+    },
+    {
+     "type": "text",
+     "text": "Demand without a brand, and a budget nobody can trace."
+    },
+    {
+     "type": "text",
+     "text": "₹14.94L, 1,259 leads, and half the spend running blind."
+    },
+    {
+     "type": "text",
+     "text": "₹30.72L, and a conversion number that is not real."
+    },
+    {
+     "type": "text",
+     "text": "04"
+    },
+    {
+     "type": "text",
+     "text": "05"
+    },
+    {
+     "type": "text",
+     "text": "06"
+    },
+    {
+     "type": "text",
+     "text": "Tracking and CRM"
+    },
+    {
+     "type": "text",
+     "text": "Website and landing pages"
+    },
+    {
+     "type": "text",
+     "text": "Creative and brand"
+    },
+    {
+     "type": "text",
+     "text": "Two pixels, one broken chain, and the system that is missing."
+    },
+    {
+     "type": "text",
+     "text": "Where every rupee lands, and why a third of it never arrives."
+    },
+    {
+     "type": "text",
+     "text": "What is running, what is working, and what Guhantara should stand for."
+    },
+    {
+     "type": "text",
+     "text": "07"
+    },
+    {
+     "type": "text",
+     "text": "08"
+    },
+    {
+     "type": "text",
+     "text": "09"
+    },
+    {
+     "type": "text",
+     "text": "The weekday problem"
+    },
+    {
+     "type": "text",
+     "text": "Supperclub"
+    },
+    {
+     "type": "text",
+     "text": "The plan"
+    },
+    {
+     "type": "text",
+     "text": "Five buyers who are free on a Tuesday."
+    },
+    {
+     "type": "text",
+     "text": "10,000+ sign-ups, and what transfers to a resort."
+    },
+    {
+     "type": "text",
+     "text": "Ninety days, what we measure, and what we need."
+    }
+   ],
+   "image": "/slides/slide-04.webp"
+  },
+  {
+   "n": 5,
+   "chapter": "business",
+   "title": "Twenty-one months of spend, and one unanswerable question",
+   "notes": "Lead with the money, then take away the certainty. The \"zero\" card is deliberately blunt: it is not an accusation about performance, it is a statement about instrumentation.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Total media spend"
+    },
+    {
+     "type": "text",
+     "text": "Meta leads recorded"
+    },
+    {
+     "type": "text",
+     "text": "Bookings attributed"
+    },
+    {
+     "type": "text",
+     "text": "₹45.65L"
+    },
+    {
+     "type": "text",
+     "text": "1,259"
+    },
+    {
+     "type": "text",
+     "text": "Zero"
+    },
+    {
+     "type": "text",
+     "text": "Meta ₹14.94L + Google ₹30.72L"
+    },
+    {
+     "type": "text",
+     "text": "Blended cost per lead ₹1,186.29"
+    },
+    {
+     "type": "text",
+     "text": "Not none sold — none traceable"
+    },
+    {
+     "type": "text",
+     "text": "The third number is the one that matters. Rooms were booked and day-outs were sold across these 21 months. Nothing in either account can tell you which advert produced a single one of them."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager and Google Ads, 1 Jan 2025 – 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-05.webp"
+  },
+  {
+   "n": 6,
+   "chapter": "business",
+   "title": "The awareness is already won. The reputation is being lost.",
+   "notes": "The complaints are consistent and they are all one complaint: too many people on peak days. Overcrowding, hygiene slipping, buffet queues, prices that feel high for what arrives. The praise is equally consistent: food variety, staff, rain dance, tunnel trek.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Source",
+       "Rating",
+       "Reviews"
+      ],
+      [
+       "Thrillophilia",
+       "4.2 / 5",
+       "18,670"
+      ],
+      [
+       "Google",
+       "3.7 / 5",
+       "21,392"
+      ],
+      [
+       "TripAdvisor",
+       "3.2 / 5",
+       "317"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Of 21,392 Google reviewers"
+    },
+    {
+     "type": "text",
+     "text": "3,289"
+    },
+    {
+     "type": "text",
+     "text": "rated it two stars or less. That is 15% of everyone who walked through the door and wrote about it."
+    },
+    {
+     "type": "text",
+     "text": "Against 726 ratings for Wild Valley and 754 for Elim, Guhantara has roughly 25 times the reviewed footfall of its nearest neighbours on the same road."
+    },
+    {
+     "type": "text",
+     "text": "TripAdvisor ranks it #587 of 1,258 Bengaluru hotels. Value 3.1. Service 3.1."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google, TripAdvisor and Thrillophilia listings, read 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-06.webp"
+  },
+  {
+   "n": 7,
+   "chapter": "business",
+   "title": "The loop the business is stuck in",
+   "notes": "This slide reframes reviews as a marketing cost. It also sets up the later argument that fixing peak-day capacity is part of the brief, not somebody else's job.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "01"
+    },
+    {
+     "type": "text",
+     "text": "02"
+    },
+    {
+     "type": "text",
+     "text": "03"
+    },
+    {
+     "type": "text",
+     "text": "04"
+    },
+    {
+     "type": "text",
+     "text": "Discount to fill"
+    },
+    {
+     "type": "text",
+     "text": "Volume arrives"
+    },
+    {
+     "type": "text",
+     "text": "The rating drops"
+    },
+    {
+     "type": "text",
+     "text": "Persuasion costs more"
+    },
+    {
+     "type": "text",
+     "text": "Weekday 25% and weekend 15% off, with struck-through prices in the booking engine itself."
+    },
+    {
+     "type": "text",
+     "text": "Peak days fill past the point where the experience holds together."
+    },
+    {
+     "type": "text",
+     "text": "Overcrowding and hygiene complaints put 15% of reviewers at two stars or below."
+    },
+    {
+     "type": "text",
+     "text": "A shopper who reads 3.7 stars needs more convincing, so every booking costs more to buy."
+    },
+    {
+     "type": "text",
+     "text": "And a costlier booking argues for a deeper discount. The rating is not just an operations problem — it is a line item in the media budget."
+    },
+    {
+     "type": "text",
+     "text": "Current offers per the client: weekdays 25% off, weekends 15% off."
+    }
+   ],
+   "image": "/slides/slide-07.webp"
+  },
+  {
+   "n": 8,
+   "chapter": "business",
+   "title": "Twenty resorts on one road, selling one product",
+   "notes": "A cave is not a 13% better lawn. That line is worth saying out loud here.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Resort",
+       "Day-out price",
+       "Ratings",
+       "What it claims"
+      ],
+      [
+       "Guhantara",
+       "₹1,499 from ₹1,999",
+       "18,670",
+       "Underground, 10 m below ground"
+      ],
+      [
+       "Wild Valley",
+       "₹1,349 from ₹1,499",
+       "726",
+       "Zip-lining, rappelling, trekking"
+      ],
+      [
+       "Elim Resort",
+       "₹1,319 from ₹1,600",
+       "754",
+       "50 rooms, kids' play area"
+      ],
+      [
+       "Discovery Village",
+       "Not listed",
+       "—",
+       "Adventure and relaxation"
+      ],
+      [
+       "Urban Valley",
+       "Not listed",
+       "—",
+       "Ultra-modern amenities"
+      ],
+      [
+       "Khedda",
+       "Not listed",
+       "—",
+       "Waterfall, outdoor pool"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Thirteen more use the same vocabulary: outdoor pool, kids' play area, indoor games, open-air restaurant, natural surroundings. Guhantara is priced inside that pool, at a 10–13% premium for an asset that is not comparable at all."
+    },
+    {
+     "type": "text",
+     "text": "Source: Thrillophilia, Resorts in Kanakapura Road, read 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-08.webp"
+  },
+  {
+   "n": 9,
+   "chapter": "business",
+   "title": "It owns something unrepeatable and prices it like a substitute",
+   "notes": "The distance between where the marketing sits and where the architecture belongs is the entire argument for the rebrand.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Each property placed by how it is sold, not by what it owns."
+    }
+   ],
+   "image": "/slides/slide-09.webp"
+  },
+  {
+   "n": 10,
+   "chapter": "business",
+   "title": "The copy test: could a rival have it by next season?",
+   "notes": "Every space on the property carries a Sanskrit name with a meaning, and none of it appears anywhere in the advertising. A 700-seat underground amphitheatre is a cultural venue being treated as a games facility.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "What Guhantara sells today",
+       "Copyable?"
+      ],
+      [
+       "Buffet, pool, rain dance, games",
+       "Yes — all twenty already have it"
+      ],
+      [
+       "Zip-line, quad bike, zorbing, archery",
+       "Yes — bought equipment"
+      ],
+      [
+       "Ayurvedic spa",
+       "Yes — common on the road"
+      ],
+      [
+       "Ten metres underground",
+       "No"
+      ],
+      [
+       "Tunnel trekking",
+       "No"
+      ],
+      [
+       "Rangamandapa, a 700-seat underground amphitheatre",
+       "No"
+      ],
+      [
+       "Being India's first cave resort",
+       "No — it is a fact of history"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "The four shaded rows are the brand. They are also close to absent from the advertising, which leads with price and activity count."
+    },
+    {
+     "type": "text",
+     "text": "Named spaces: Sambhojana, Madhushala, Rangamandapa, Samvaad, Agastya Kuteera — none used in marketing."
+    }
+   ],
+   "image": "/slides/slide-10.webp"
+  },
+  {
+   "n": 11,
+   "chapter": "meta",
+   "title": "The Meta account",
+   "notes": "Note the account caveat here: Guhantara does not have its own ad account. Three resorts are advertised from one account, filtered by campaign name. That alone limits what Meta can learn.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION TWO"
+    },
+    {
+     "type": "text",
+     "text": "Spent"
+    },
+    {
+     "type": "text",
+     "text": "Impressions"
+    },
+    {
+     "type": "text",
+     "text": "Leads recorded"
+    },
+    {
+     "type": "text",
+     "text": "Cost per lead"
+    },
+    {
+     "type": "text",
+     "text": "₹14.94L"
+    },
+    {
+     "type": "text",
+     "text": "122.6M"
+    },
+    {
+     "type": "text",
+     "text": "1,259"
+    },
+    {
+     "type": "text",
+     "text": "₹1,186"
+    },
+    {
+     "type": "text",
+     "text": "33% of total media"
+    },
+    {
+     "type": "text",
+     "text": "Reach 33.3M accounts"
+    },
+    {
+     "type": "text",
+     "text": "Forms and WhatsApp only"
+    },
+    {
+     "type": "text",
+     "text": "Blended across 21 months"
+    },
+    {
+     "type": "text",
+     "text": "Those are the headline numbers. The next twelve slides are about what sits underneath them, and almost none of it is good news."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, campaign name contains GUHA, 1 Jan 2025 – 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-11.webp"
+  },
+  {
+   "n": 12,
+   "chapter": "meta",
+   "title": "Half the budget: ₹7,41,739 spent with no lead recorded",
+   "notes": "Do not let this be heard as \"your agency wasted half the money\". Say it precisely: half the spend ran through periods where the account was not set up to record an outcome, so nobody can say whether it worked. The honest version is more damning and more fixable.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "HALF THE BUDGET"
+    },
+    {
+     "type": "text",
+     "text": "₹7,41,739"
+    },
+    {
+     "type": "text",
+     "text": "In the eleven months where leads were tracked, the same account delivered 1,259 leads at ₹597 each. The tracking, not the media, is what changed."
+    },
+    {
+     "type": "text",
+     "text": "Months with zero leads recorded: Jan, Feb, Mar, Apr, Aug, Oct, Nov 2025 and Apr, May, Jun 2026."
+    }
+   ],
+   "image": "/slides/slide-12.webp"
+  },
+  {
+   "n": 13,
+   "chapter": "meta",
+   "title": "Monthly Meta spend — shaded where no lead was recorded",
+   "notes": "The pattern is not gradual decline. It is on-and-off tracking. Point at the run of rust bars in mid-2026 and note that spend was heavy in exactly those months.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Jan 2025"
+    },
+    {
+     "type": "text",
+     "text": "Tallest bar: Mar 2025, ₹1,43,126"
+    },
+    {
+     "type": "text",
+     "text": "Sep 2026"
+    },
+    {
+     "type": "text",
+     "text": "No lead recorded that month"
+    },
+    {
+     "type": "text",
+     "text": "Leads recorded"
+    },
+    {
+     "type": "text",
+     "text": "April 2026: no spend at all"
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager monthly export. Bars are spend; colour is whether any lead was recorded."
+    }
+   ],
+   "image": "/slides/slide-13.webp"
+  },
+  {
+   "n": 14,
+   "chapter": "meta",
+   "title": "Cost per lead swings by a factor of 393",
+   "notes": "January 2026 is the proof that the media can work: 242 leads at 236 rupees. Use it as the benchmark we intend to return to, not as a stick.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Month",
+       "Spend",
+       "Leads",
+       "Cost per lead"
+      ],
+      [
+       "May 2025",
+       "₹79,611",
+       "285",
+       "₹279"
+      ],
+      [
+       "Jul 2025",
+       "₹92,713",
+       "1",
+       "₹92,713"
+      ],
+      [
+       "Sep 2025",
+       "₹1,14,830",
+       "51",
+       "₹2,252"
+      ],
+      [
+       "Dec 2025",
+       "₹33,379",
+       "130",
+       "₹257"
+      ],
+      [
+       "Jan 2026",
+       "₹57,163",
+       "242",
+       "₹236"
+      ],
+      [
+       "Jul 2026",
+       "₹74,037",
+       "29",
+       "₹2,553"
+      ],
+      [
+       "Sep 2026",
+       "₹34,883",
+       "50",
+       "₹698"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "A resort's audience does not become 393 times harder to reach in two months. This is a measurement artefact, not a market shift, and it makes every optimisation decision taken on this data unsafe."
+    },
+    {
+     "type": "text",
+     "text": "Selected months. Best recorded month ₹236, worst ₹92,713."
+    }
+   ],
+   "image": "/slides/slide-14.webp"
+  },
+  {
+   "n": 15,
+   "chapter": "meta",
+   "title": "Two thirds of the clicks you pay for never arrive",
+   "notes": "This is the single most commercially significant number in the Meta audit. It is also the cheapest to fix, and the fix is mostly on the website, not in the ad account.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Bare minimum"
+    },
+    {
+     "type": "text",
+     "text": "Outbound clicks that became a landing page view"
+    },
+    {
+     "type": "text",
+     "text": "60–70%. Below this, the page or the pixel is the problem, not the audience."
+    },
+    {
+     "type": "text",
+     "text": "33.72%"
+    },
+    {
+     "type": "text",
+     "text": "Healthy"
+    },
+    {
+     "type": "text",
+     "text": "Above 80%. The click, the page and the measurement are all doing their job."
+    },
+    {
+     "type": "text",
+     "text": "Across the full 21 months and ₹14.94L of spend."
+    },
+    {
+     "type": "text",
+     "text": "Where Guhantara sits"
+    },
+    {
+     "type": "text",
+     "text": "33.72%. Two out of every three paid clicks are either bouncing before the page loads or not being recorded at all."
+    },
+    {
+     "type": "text",
+     "text": "On ₹14.94L of spend, closing the gap to 70% is worth more than any creative change in this deck."
+    },
+    {
+     "type": "text",
+     "text": "OBC>LPV = outbound clicks to landing page views. Source: Meta Ads Manager."
+    }
+   ],
+   "image": "/slides/slide-15.webp"
+  },
+  {
+   "n": 16,
+   "chapter": "meta",
+   "title": "October 2025: 133.33% of clicks became page views",
+   "notes": "Keep this slide short and let the number sit. If anyone in the room defends the current setup, this is the number that ends the argument without anyone needing to be blamed.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "OCTOBER 2025"
+    },
+    {
+     "type": "text",
+     "text": "of outbound clicks became landing page views. More people arrived at the page than left the advert to get there."
+    },
+    {
+     "type": "text",
+     "text": "That is arithmetically impossible, and it is the cleanest single proof that the measurement is broken. In the same 21 months the figure ranges from 0.01% in January 2025 to this. Neither end is a real audience behaviour."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager monthly export, OBC>LPV column."
+    }
+   ],
+   "image": "/slides/slide-16.webp"
+  },
+  {
+   "n": 17,
+   "chapter": "meta",
+   "title": "Women cost half as much, and get a quarter of the budget",
+   "notes": "Be careful to present the +631 as what the historical numbers imply, not a promise. Efficiency usually degrades as you scale a segment.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Men"
+    },
+    {
+     "type": "text",
+     "text": "Women"
+    },
+    {
+     "type": "text",
+     "text": "The opportunity"
+    },
+    {
+     "type": "text",
+     "text": "₹1,458"
+    },
+    {
+     "type": "text",
+     "text": "₹789"
+    },
+    {
+     "type": "text",
+     "text": "+631"
+    },
+    {
+     "type": "text",
+     "text": "per lead · ₹10,86,080 spent, 72.7% of budget · 745 leads, 59.2% of leads"
+    },
+    {
+     "type": "text",
+     "text": "per lead · ₹4,04,808 spent, 27.1% of budget · 513 leads, 40.7% of leads"
+    },
+    {
+     "type": "text",
+     "text": "leads. If the male budget had converted at the female cost per lead, it would have returned 1,376 instead of 745."
+    },
+    {
+     "type": "text",
+     "text": "Women are 1.85 times more efficient in this account and have been for 21 months. Nothing in the targeting reflects that. This is the fastest efficiency gain available, and it needs no new creative."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, gender breakdown. The +631 figure is arithmetic on existing cost per lead, not a forecast."
+    }
+   ],
+   "image": "/slides/slide-17.webp"
+  },
+  {
+   "n": 18,
+   "chapter": "meta",
+   "title": "Where the money goes, and where the leads come from",
+   "notes": "18-24 deserves a separate treatment rather than a cut: they are the audience that films and shares, which is worth something the lead count does not capture. Say that, then say it should be funded as reach, not as lead generation.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Age",
+       "Spend",
+       "Share",
+       "Leads",
+       "Cost per lead"
+      ],
+      [
+       "35–44",
+       "₹4,20,881",
+       "28.2%",
+       "440",
+       "₹957 — best"
+      ],
+      [
+       "25–34",
+       "₹6,32,199",
+       "42.3%",
+       "561",
+       "₹1,127"
+      ],
+      [
+       "45–54",
+       "₹1,46,045",
+       "9.8%",
+       "126",
+       "₹1,159"
+      ],
+      [
+       "18–24",
+       "₹2,28,355",
+       "15.3%",
+       "123",
+       "₹1,857"
+      ],
+      [
+       "55–64",
+       "₹41,432",
+       "2.8%",
+       "8",
+       "₹5,179"
+      ],
+      [
+       "65+",
+       "₹24,589",
+       "1.6%",
+       "1",
+       "₹24,589"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "55 and over took 4.4% of the budget and produced 0.7% of the leads. ₹66,021 for nine leads."
+    },
+    {
+     "type": "text",
+     "text": "18–24 took 15.3% of the budget at the second-worst cost per lead. They browse, they do not book."
+    },
+    {
+     "type": "text",
+     "text": "25–44 is the business: 70.5% of spend, 79.5% of leads. Corporate video performs hardest here."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, age breakdown, 1 Jan 2025 – 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-18.webp"
+  },
+  {
+   "n": 19,
+   "chapter": "meta",
+   "title": "Instagram does the work. Facebook takes the budget.",
+   "notes": "Instagram's OBC to LPV is 25.90% against Facebook's 35.22%, so Instagram is winning despite a worse landing rate. Fix the landing page and Instagram gets better still.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Instagram"
+    },
+    {
+     "type": "text",
+     "text": "Facebook"
+    },
+    {
+     "type": "text",
+     "text": "The gap"
+    },
+    {
+     "type": "text",
+     "text": "₹929"
+    },
+    {
+     "type": "text",
+     "text": "₹2,064"
+    },
+    {
+     "type": "text",
+     "text": "2.2×"
+    },
+    {
+     "type": "text",
+     "text": "Facebook costs 2.2 times more per lead. The same budget at Instagram's rate would have returned 591 leads, not 266."
+    },
+    {
+     "type": "text",
+     "text": "per lead · 61.8% of spend · 78.9% of leads · 993 leads from ₹9,22,738"
+    },
+    {
+     "type": "text",
+     "text": "per lead · 36.8% of spend · 21.1% of leads · 266 leads from ₹5,48,958"
+    },
+    {
+     "type": "text",
+     "text": "Facebook is not worthless — it reaches an older, family-planning audience the corporate and wedding products need. But it is funded as though it performs like Instagram, and it does not."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, platform breakdown."
+    }
+   ],
+   "image": "/slides/slide-19.webp"
+  },
+  {
+   "n": 20,
+   "chapter": "meta",
+   "title": "Money spent where nothing has ever converted",
+   "notes": "This is the easiest win in the deck and it can be actioned the same afternoon. Do not oversell it; it is worth less than the OBC fix.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Where",
+       "Spend",
+       "Leads"
+      ],
+      [
+       "Audience Network",
+       "₹20,315",
+       "0"
+      ],
+      [
+       "Feed: video feeds",
+       "₹17,700",
+       "0"
+      ],
+      [
+       "Native, banner, interstitial",
+       "₹15,474",
+       "0"
+      ],
+      [
+       "Explore home",
+       "₹6,397",
+       "0"
+      ],
+      [
+       "In-stream reels",
+       "₹5,774",
+       "0"
+      ],
+      [
+       "Threads",
+       "₹1,207",
+       "0"
+      ],
+      [
+       "WhatsApp and Messenger placements",
+       "₹322",
+       "0"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Across four placements and platforms"
+    },
+    {
+     "type": "text",
+     "text": "₹67,188"
+    },
+    {
+     "type": "text",
+     "text": "and not one recorded lead in 21 months."
+    },
+    {
+     "type": "text",
+     "text": "Audience Network and Threads rarely produce a result for any brand we run, so the honest move is to exclude them outright and cap anything similar to a token share of budget. Here they sit inside ₹67,188 — roughly 4.5% of Meta spend — left on because placements default to automatic and nobody has looked."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, platform and placement breakdowns."
+    }
+   ],
+   "image": "/slides/slide-20.webp"
+  },
+  {
+   "n": 21,
+   "chapter": "meta",
+   "title": "The biggest placement is the worst one",
+   "notes": "Feed also has the best landing rate of the group at 35.87%, so it is not failing at everything. It is simply the most expensive way this account buys a lead.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Placement",
+       "Spend",
+       "Share",
+       "Leads",
+       "Cost per lead"
+      ],
+      [
+       "Feed",
+       "₹5,48,073",
+       "36.7%",
+       "393",
+       "₹1,395 — worst"
+      ],
+      [
+       "Instagram Reels",
+       "₹4,28,107",
+       "28.7%",
+       "404",
+       "₹1,060"
+      ],
+      [
+       "Instagram Stories",
+       "₹2,94,803",
+       "19.7%",
+       "268",
+       "₹1,100"
+      ],
+      [
+       "Facebook Reels",
+       "₹1,48,209",
+       "9.9%",
+       "152",
+       "₹975"
+      ],
+      [
+       "Facebook Stories",
+       "₹15,787",
+       "1.1%",
+       "37",
+       "₹427 — best"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Feed absorbs more than a third of the budget and returns the most expensive leads of the four major placements. Moving that budget to Instagram Reels at its own historical rate implies roughly 124 more leads for the same money."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, placement breakdown. Top five of 26 placements shown; these carry 99.6% of recorded leads."
+    }
+   ],
+   "image": "/slides/slide-21.webp"
+  },
+  {
+   "n": 22,
+   "chapter": "meta",
+   "title": "Facebook Stories: ₹427 a lead",
+   "notes": "Flagging the small sample size ourselves is what makes the rest of the deck credible. We are not cherry-picking a winner, we are pointing at an untested one.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "FACEBOOK STORIES"
+    },
+    {
+     "type": "text",
+     "text": "The cheapest lead in the entire account, on 1.1% of the budget."
+    },
+    {
+     "type": "text",
+     "text": "Thirty-seven leads from ₹15,787. It is a small sample and it may not hold at scale — which is exactly why it should have been tested properly a year ago. Instead it has been left as a rounding error while Feed spent thirty-five times as much at three times the cost."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager, placement breakdown. 37 leads is a small base; treat as a test signal, not a proven rate."
+    }
+   ],
+   "image": "/slides/slide-22.webp"
+  },
+  {
+   "n": 23,
+   "chapter": "meta",
+   "title": "One account, four different jobs, no consistent strategy",
+   "notes": "The shared-ad-account point came from the client's own team. It explains a lot of the volatility and it is a prerequisite, not a nice-to-have.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Cheapest month, cost per 1,000 impressions"
+    },
+    {
+     "type": "text",
+     "text": "Dearest month, cost per 1,000 impressions"
+    },
+    {
+     "type": "text",
+     "text": "Spread"
+    },
+    {
+     "type": "text",
+     "text": "41×"
+    },
+    {
+     "type": "text",
+     "text": "₹3.03"
+    },
+    {
+     "type": "text",
+     "text": "₹125.62"
+    },
+    {
+     "type": "text",
+     "text": "November 2025"
+    },
+    {
+     "type": "text",
+     "text": "March 2026"
+    },
+    {
+     "type": "text",
+     "text": "Within one account, one property"
+    },
+    {
+     "type": "text",
+     "text": "A 41-fold swing in media cost is not the auction moving. It is the account switching between reach buying and conversion buying without a plan, so Meta's learning resets every time. Add three resorts sharing one ad account and the algorithm never accumulates a clean signal for any of them."
+    },
+    {
+     "type": "text",
+     "text": "Recommendation: Guhantara needs its own ad account, separated from the other two resorts, before any structural optimisation is worth doing."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager monthly export, spend divided by impressions."
+    }
+   ],
+   "image": "/slides/slide-23.webp"
+  },
+  {
+   "n": 24,
+   "chapter": "meta",
+   "title": "Meta: what we would change",
+   "notes": "End the Meta section by deliberately deflating it. The room should leave this slide understanding that media optimisation is the cheap part.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "When",
+       "Change",
+       "Why, from this audit"
+      ],
+      [
+       "Week 1",
+       "Separate ad account for Guhantara",
+       "Three resorts in one account, 41× cost-per-impression swing"
+      ],
+      [
+       "Week 1",
+       "Turn off Audience Network and the five zero-lead placements",
+       "₹67,188 with no recorded lead in 21 months"
+      ],
+      [
+       "Week 1",
+       "Ideal range is 25-35 where the most leads come from. 18-24 and 35-45 can be kept as suggestions and separate targets.",
+       "₹66,021 for nine leads; 18–24 at ₹1,857"
+      ],
+      [
+       "Week 2",
+       "Have dedicated budgets and targetings for women and men",
+       "₹789 against ₹1,458; ₹929 against ₹2,064"
+      ],
+      [
+       "Week 2",
+       "Move Feed budget into Instagram Reels and Stories; fund a Facebook Stories test",
+       "Feed at ₹1,395 is the worst major placement; Stories at ₹427 is untested"
+      ],
+      [
+       "Week 3",
+       "Rebuild the campaign structure by product: day-out, stay, corporate, events",
+       "Two products, one landing page, no separation in the account"
+      ],
+      [
+       "Ongoing",
+       "Creative refresh cycle with a fixed testing budget",
+       "Creatives from July still running unrotated"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "None of this is worth doing until the measurement is fixed. That is the next two sections."
+    },
+    {
+     "type": "text",
+     "text": "Sequencing matters more than any single change on this list."
+    }
+   ],
+   "image": "/slides/slide-24.webp"
+  },
+  {
+   "n": 25,
+   "chapter": "google",
+   "title": "The Google account",
+   "notes": "Pause on the last card. Nobody acquires a 1,499-rupee booking for 60 rupees. The moment you say that, the room understands the rest of the section.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION THREE"
+    },
+    {
+     "type": "text",
+     "text": "Spent"
+    },
+    {
+     "type": "text",
+     "text": "Clicks"
+    },
+    {
+     "type": "text",
+     "text": "Conversions reported"
+    },
+    {
+     "type": "text",
+     "text": "Cost per conversion"
+    },
+    {
+     "type": "text",
+     "text": "₹59.89"
+    },
+    {
+     "type": "text",
+     "text": "₹30.72L"
+    },
+    {
+     "type": "text",
+     "text": "2,61,629"
+    },
+    {
+     "type": "text",
+     "text": "51,289"
+    },
+    {
+     "type": "text",
+     "text": "67% of total media"
+    },
+    {
+     "type": "text",
+     "text": "Search and Demand Gen"
+    },
+    {
+     "type": "text",
+     "text": "From a resort with 18 rooms"
+    },
+    {
+     "type": "text",
+     "text": "A day-out ticket sells for ₹1,499"
+    },
+    {
+     "type": "text",
+     "text": "Google is twice the Meta budget and gets a fraction of the scrutiny. It is also where the numbers stop being believable."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google Ads, 1 Jan 2025 – 29 Sep 2026. First recorded month is March 2025."
+    }
+   ],
+   "image": "/slides/slide-25.webp"
+  },
+  {
+   "n": 26,
+   "chapter": "google",
+   "title": "The 51,289 conversions in this account are not bookings.",
+   "notes": "Be precise about what we know and do not know. We have not seen the conversion action definitions. What we have is four pieces of evidence from the output that make the current definitions indefensible.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "THE CORE PROBLEM"
+    },
+    {
+     "type": "text",
+     "text": "Whatever they are — page views, phone-number clicks, scroll depth, an engagement event — they are being counted as the outcome, and every bid Google has made for 19 months has been optimised toward them."
+    },
+    {
+     "type": "text",
+     "text": "The next four slides are the proof. Each one on its own would be a red flag. Together they mean the conversion column cannot be used to make a single decision."
+    },
+    {
+     "type": "text",
+     "text": "We could not inspect the conversion actions directly — that needs account access."
+    }
+   ],
+   "image": "/slides/slide-26.webp"
+  },
+  {
+   "n": 27,
+   "chapter": "google",
+   "title": "Who is already being asked for by name",
+   "notes": "",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Brand",
+       "Head search term",
+       "Avg. monthly searches, India"
+      ],
+      [
+       "Guhantara",
+       "guhantara · guhantara resort · guhantara cave resort",
+       "90,500"
+      ],
+      [
+       "Discovery Village",
+       "discovery village · discovery village resort",
+       "8,100"
+      ],
+      [
+       "Aldovia",
+       "aldovia · aldovia resort",
+       "720"
+      ],
+      [
+       "CGH Earth",
+       "cgh earth · cgh earth hotels",
+       "8,100"
+      ],
+      [
+       "Wild Valley",
+       "wild valley resort",
+       "14,800"
+      ],
+      [
+       "Clarks Exotica",
+       "clarks exotica · clarks exotica resort",
+       "5,400"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Brand search volume is the cleanest read on who the market already wants. It also decides the Google split: how much belongs on your own name, and how much has to go and find demand that has never heard of you."
+    },
+    {
+     "type": "text",
+     "text": "Volumes to be pulled from Google Keyword Planner, India, last 12 months. Fill before presenting."
+    }
+   ],
+   "image": "/slides/slide-27.webp"
+  },
+  {
+   "n": 28,
+   "chapter": "google",
+   "title": "Proof one: 0.9% of the spend claims 67% of the conversions",
+   "notes": "Demand Gen is almost certainly firing a different, looser conversion action than Search. Until that is unpicked, blended account reporting is meaningless.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Campaign type",
+       "Cost",
+       "Conversions",
+       "Conv. rate",
+       "Cost / conv."
+      ],
+      [
+       "Search",
+       "₹30,43,823",
+       "16,699",
+       "7.66%",
+       "₹182.28"
+      ],
+      [
+       "Demand Gen",
+       "₹27,614",
+       "34,590",
+       "76.03%",
+       "₹0.80"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Demand Gen share of spend"
+    },
+    {
+     "type": "text",
+     "text": "Its share of reported conversions"
+    },
+    {
+     "type": "text",
+     "text": "Cost-per-conversion gap vs Search"
+    },
+    {
+     "type": "text",
+     "text": "0.9%"
+    },
+    {
+     "type": "text",
+     "text": "67.4%"
+    },
+    {
+     "type": "text",
+     "text": "228×"
+    },
+    {
+     "type": "text",
+     "text": "A 76% conversion rate on a discovery campaign, at eighty paise a conversion, describes an event that fires on almost every visit. It does not describe somebody booking a room."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google Ads, campaign type report, 1 Jan 2025 – 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-28.webp"
+  },
+  {
+   "n": 29,
+   "chapter": "google",
+   "title": "Proof two: one month holds two thirds of 19 months of conversions",
+   "notes": "If the client has been reported to on blended Google conversions, every number they have been shown since March is distorted by this one month.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Month",
+       "Clicks",
+       "Cost",
+       "Conversions",
+       "Conv. rate"
+      ],
+      [
+       "January 2026",
+       "17,086",
+       "₹2,15,713",
+       "1,336",
+       "7.82%"
+      ],
+      [
+       "February 2026",
+       "9,758",
+       "₹1,65,550",
+       "1,849",
+       "18.95%"
+      ],
+      [
+       "March 2026",
+       "51,657",
+       "₹1,65,437",
+       "34,488",
+       "64.53%"
+      ],
+      [
+       "April 2026",
+       "118",
+       "₹831",
+       "142",
+       "102.90%"
+      ],
+      [
+       "May 2026",
+       "7,003",
+       "₹30,282",
+       "237",
+       "3.38%"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "March 2026 reports 34,488 conversions — 67.2% of everything the account has ever recorded — at ₹4.80 each."
+    },
+    {
+     "type": "text",
+     "text": "Clicks jumped five-fold in the same month while cost fell. That is Demand Gen scaling, not demand for a cave resort tripling overnight."
+    },
+    {
+     "type": "text",
+     "text": "Remove March and the account's whole conversion history changes shape. Any year-on-year report built on this is wrong."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google Ads, monthly report."
+    }
+   ],
+   "image": "/slides/slide-29.webp"
+  },
+  {
+   "n": 30,
+   "chapter": "google",
+   "title": "Proof three: a 102.90% conversion rate",
+   "notes": "This is the hinge of the deck. Two independent platforms breaking the same way points downstream, to the shared website and measurement layer.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "PROOF THREE · APRIL 2026"
+    },
+    {
+     "type": "text",
+     "text": "conversion rate. 142 conversions from 118 clicks."
+    },
+    {
+     "type": "text",
+     "text": "More people converted than clicked. Like October's 133% on Meta, this is not a performance result — it is a measurement system reporting an event that does not require the click it is being credited to."
+    },
+    {
+     "type": "text",
+     "text": "Both platforms are independently producing impossible numbers in the same period. That is not a coincidence — it points at the website and the pixel setup they share, which is the next section."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google Ads, monthly report. April 2026 also shows near-zero spend on both platforms."
+    }
+   ],
+   "image": "/slides/slide-30.webp"
+  },
+  {
+   "n": 31,
+   "chapter": "google",
+   "title": "Proof four: the revenue column is not revenue",
+   "notes": "Without reliable values there is no return-on-ad-spend figure for Google, and any that has been reported was built on this.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Month",
+       "Conversions",
+       "Conversion value",
+       "What it implies"
+      ],
+      [
+       "July 2025",
+       "4,075.19",
+       "₹4,075.20",
+       "₹1 per conversion"
+      ],
+      [
+       "December 2025",
+       "1,421.18",
+       "₹1,421.18",
+       "₹1 per conversion"
+      ],
+      [
+       "March 2026",
+       "34,488.44",
+       "₹34,488.44",
+       "₹1 per conversion"
+      ],
+      [
+       "May 2026",
+       "236.67",
+       "₹5,57,763.84",
+       "₹2,357 each"
+      ],
+      [
+       "June 2026",
+       "144.75",
+       "₹1,77,117.65",
+       "₹1,223 each"
+      ],
+      [
+       "August 2026",
+       "289.75",
+       "₹289.75",
+       "Back to ₹1 each"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "For most of the account's life the conversion value is simply a copy of the conversion count — no rupee value assigned at all. For three months in 2026 someone assigned real values that look like room rates, then it reverted. The ₹8.37L of reported conversion value across the period is not comparable with itself, let alone with spend."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google Ads, monthly report, conversion value column."
+    }
+   ],
+   "image": "/slides/slide-31.webp"
+  },
+  {
+   "n": 32,
+   "chapter": "google",
+   "title": "Under the noise, Google is getting more expensive every month",
+   "notes": "Rising cost per conversion plus falling volume plus a very high top-of-page share is the classic signature of an account leaning on a narrow set of terms.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Month",
+       "Clicks",
+       "Avg. CPC",
+       "Cost / conv.",
+       "Top-of-page share"
+      ],
+      [
+       "February 2026",
+       "9,758",
+       "₹16.97",
+       "₹89.54",
+       "34.36% absolute top"
+      ],
+      [
+       "June 2026",
+       "5,232",
+       "₹5.81",
+       "₹210.02",
+       "31.32%"
+      ],
+      [
+       "July 2026",
+       "7,872",
+       "₹21.35",
+       "₹410.35",
+       "50.22%"
+      ],
+      [
+       "August 2026",
+       "4,597",
+       "₹28.44",
+       "₹451.26",
+       "66.56%"
+      ],
+      [
+       "September 2026",
+       "3,777",
+       "₹22.21",
+       "₹512.35",
+       "64.04%"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Cost per conversion has risen 5.7× since February, on a conversion definition that is already too generous."
+    },
+    {
+     "type": "text",
+     "text": "Clicks are falling while the absolute-top share climbs to 64–66%. The account is paying more to win a shrinking pool of searches."
+    },
+    {
+     "type": "text",
+     "text": "Click-through rate in those months is 19–22%, far above a normal non-brand search campaign."
+    },
+    {
+     "type": "text",
+     "text": "Source: Google Ads, monthly report."
+    }
+   ],
+   "image": "/slides/slide-32.webp"
+  },
+  {
+   "n": 33,
+   "chapter": "google",
+   "title": "Is Google buying traffic Guhantara already owns?",
+   "notes": "Label this honestly. Overclaiming here would undermine the four proofs that came before it, which are solid.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "A HYPOTHESIS, NOT A FINDING"
+    },
+    {
+     "type": "text",
+     "text": "The signals"
+    },
+    {
+     "type": "text",
+     "text": "What it means"
+    },
+    {
+     "type": "text",
+     "text": "Why it matters here"
+    },
+    {
+     "type": "text",
+     "text": "Click-through rate of 19–22%, absolute top-of-page share above 64%, and volume in the low thousands. Generic resort searches do not behave like this."
+    },
+    {
+     "type": "text",
+     "text": "With 21,392 Google reviews, Guhantara has enormous organic brand demand. Paying to intercept it inflates the conversion count and hides how little new demand is being created."
+    },
+    {
+     "type": "text",
+     "text": "Spend concentrated on the brand's own name. People searching \"Guhantara\" were coming anyway; the click is bought, not created."
+    },
+    {
+     "type": "text",
+     "text": "To confirm: The Majority spends across jan01-2025 to sep29 2026 till date have been made across only two campaigns in Google that are two search campaigns and both have used brand keywords as the primary search keywords"
+    },
+    {
+     "type": "text",
+     "text": "Stated as a hypothesis because the campaign-level export does not contain search terms."
+    }
+   ],
+   "image": "/slides/slide-33.webp"
+  },
+  {
+   "n": 34,
+   "chapter": "google",
+   "title": "Google: what we would change",
+   "notes": "Setting the expectation that conversions will crash is essential. If we do not say it now, the first clean month looks like a disaster.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "When",
+       "Change",
+       "Why, from this audit"
+      ],
+      [
+       "Week 1",
+       "Audit every conversion action; retire the ones that are not a booking or an enquiry",
+       "51,289 conversions, ₹59.89 each, one month holding 67% of them"
+      ],
+      [
+       "Week 1",
+       "Separate Demand Gen from Search in all reporting",
+       "0.9% of spend claiming 67.4% of conversions at ₹0.80"
+      ],
+      [
+       "Week 1",
+       "Pull the search terms report, split brand from non-brand",
+       "19–22% CTR and 64% absolute top share suggest brand-heavy spend"
+      ],
+      [
+       "Week 1",
+       "Build and launch a landing page made for paid traffic",
+       "One URL serves day-out and rooms alike, so no page matches the search intent"
+      ],
+      [
+       "Week 2",
+       "Assign real rupee values to each conversion type",
+       "Conversion value is a copy of the count in most months"
+      ],
+      [
+       "Week 2",
+       "Define primary against secondary conversions so bidding optimises to bookings",
+       "Everything currently counts equally, so Google optimises to the cheapest event"
+      ],
+      [
+       "Week 3",
+       "Rebuild campaigns by product and by intent, with matched landing pages",
+       "One URL serves day-out and rooms alike"
+      ],
+      [
+       "Week 4",
+       "Re-baseline. Report cost per qualified enquiry, not cost per conversion",
+       "Nothing before the fix is comparable with anything after it"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Expect the reported conversion count to fall sharply once this is done. That is the fix working, not performance dropping, and the client should be told before it happens."
+    },
+    {
+     "type": "text",
+     "text": "Sequencing assumes account access in week one."
+    }
+   ],
+   "image": "/slides/slide-34.webp"
+  },
+  {
+   "n": 35,
+   "chapter": "tracking",
+   "title": "Both accounts are broken in the same place, and it is not in the accounts.",
+   "notes": "This is the argument the whole audit has been building toward. Slow down here.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION FOUR"
+    },
+    {
+     "type": "text",
+     "text": "Data attribution not being proper"
+    },
+    {
+     "type": "text",
+     "text": "One URL serving two different products"
+    },
+    {
+     "type": "text",
+     "text": "A redirect to a booking domain the pixel cannot follow"
+    },
+    {
+     "type": "text",
+     "text": "No CRM to catch anything that survives"
+    },
+    {
+     "type": "text",
+     "text": "Four faults, one consequence: the moment a person leaves the advert, Guhantara loses sight of them. Everything in the last two sections is a symptom of this slide."
+    }
+   ],
+   "image": "/slides/slide-35.webp"
+  },
+  {
+   "n": 36,
+   "chapter": "tracking",
+   "title": "Two Meta pixels are live on one website",
+   "notes": "Resolve to one pixel, one dataset, one set of standard events. Do it before any structural media change, or the before-and-after comparison is worthless.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Active Meta pixels on guhantara.com"
+    },
+    {
+     "type": "text",
+     "text": "Events double-count"
+    },
+    {
+     "type": "text",
+     "text": "One page view can register twice, inflating landing page views and conversions."
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "Optimisation splits"
+    },
+    {
+     "type": "text",
+     "text": "Signal is divided across two datasets, so neither learns quickly and neither is complete."
+    },
+    {
+     "type": "text",
+     "text": "Nobody on the client side can currently say why, which of them the ad account optimises against, or what each is set to record."
+    },
+    {
+     "type": "text",
+     "text": "Reporting cannot be trusted"
+    },
+    {
+     "type": "text",
+     "text": "This is a credible cause of the impossible 133% and 102.9% figures in both accounts."
+    },
+    {
+     "type": "text",
+     "text": "Identified on the live site. Which pixel is canonical needs to be decided with the client."
+    }
+   ],
+   "image": "/slides/slide-36.webp"
+  },
+  {
+   "n": 37,
+   "chapter": "tracking",
+   "title": "The chain breaks at the exact moment money changes hands",
+   "notes": "Step 5 is drawn as a ghost on purpose. It is the only step that produces revenue, and it is the only one the business cannot see.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "01"
+    },
+    {
+     "type": "text",
+     "text": "02"
+    },
+    {
+     "type": "text",
+     "text": "03"
+    },
+    {
+     "type": "text",
+     "text": "04"
+    },
+    {
+     "type": "text",
+     "text": "05"
+    },
+    {
+     "type": "text",
+     "text": "The ad"
+    },
+    {
+     "type": "text",
+     "text": "guhantara.com"
+    },
+    {
+     "type": "text",
+     "text": "Book Now"
+    },
+    {
+     "type": "text",
+     "text": "Redirect"
+    },
+    {
+     "type": "text",
+     "text": "The booking"
+    },
+    {
+     "type": "text",
+     "text": "Meta or Google, tagged"
+    },
+    {
+     "type": "text",
+     "text": "Pixels fire — both of them"
+    },
+    {
+     "type": "text",
+     "text": "The visitor clicks through"
+    },
+    {
+     "type": "text",
+     "text": "secure-booking-engine.com — a different domain"
+    },
+    {
+     "type": "text",
+     "text": "Invisible. No pixel, no event, no attribution."
+    },
+    {
+     "type": "text",
+     "text": "The pixel does not follow the visitor across the domain boundary, so every completed booking is unattributed."
+    },
+    {
+     "type": "text",
+     "text": "Meta and Google are therefore optimising toward step 2 or 3 — a page view or a click — because that is the last thing they can see."
+    },
+    {
+     "type": "text",
+     "text": "This single gap explains the ₹0.80 conversions, the impossible rates, and why nobody can name a cost per booking."
+    },
+    {
+     "type": "text",
+     "text": "Booking engine: Djubo, served on secure-booking-engine.com."
+    }
+   ],
+   "image": "/slides/slide-37.webp"
+  },
+  {
+   "n": 38,
+   "chapter": "tracking",
+   "title": "The fix: keep the booking inside the website",
+   "notes": "We have not verified the embed is possible on their plan. Present it as the preferred route with a named fallback, not as a settled fact.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "PROPOSED — EMBEDDED WIDGET"
+    },
+    {
+     "type": "text",
+     "text": "TODAY — REDIRECT"
+    },
+    {
+     "type": "text",
+     "text": "The visitor leaves guhantara.com"
+    },
+    {
+     "type": "text",
+     "text": "Djubo runs inside the page"
+    },
+    {
+     "type": "text",
+     "text": "Pixel does not follow\nNo purchase or lead event fires\nSession and campaign tags are lost\nBooking value never reaches the ad platform\nThe visitor sees a different-looking site mid-purchase"
+    },
+    {
+     "type": "text",
+     "text": "Pixel and tags stay with the visitor\nPurchase event fires on confirmation\nBooking value passes back to Meta and Google\nBidding can optimise to revenue, not page views\nThe brand experience holds all the way through"
+    },
+    {
+     "type": "text",
+     "text": "First action: confirm with Djubo whether their widget can be embedded on guhantara.com for this property and plan. Their product is described as an attachable widget, so this should be available — but it must be verified before we commit to it. If it cannot be embedded, the fallback is cross-domain tracking plus a server-side purchase event from the booking confirmation."
+    },
+    {
+     "type": "text",
+     "text": "Either route restores the purchase event. The embed is cleaner; the fallback works if the embed is unavailable."
+    }
+   ],
+   "image": "/slides/slide-38.webp"
+  },
+  {
+   "n": 39,
+   "chapter": "tracking",
+   "title": "What it looks like when it works",
+   "notes": "Walk it once, clockwise. Then point out that the only missing pieces are a CRM, an embedded booking flow and a server-side event.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "01"
+    },
+    {
+     "type": "text",
+     "text": "02"
+    },
+    {
+     "type": "text",
+     "text": "03"
+    },
+    {
+     "type": "text",
+     "text": "04"
+    },
+    {
+     "type": "text",
+     "text": "The ad"
+    },
+    {
+     "type": "text",
+     "text": "The landing page"
+    },
+    {
+     "type": "text",
+     "text": "The CRM"
+    },
+    {
+     "type": "text",
+     "text": "Follow-up"
+    },
+    {
+     "type": "text",
+     "text": "Tagged by campaign and product"
+    },
+    {
+     "type": "text",
+     "text": "One page per product, one pixel"
+    },
+    {
+     "type": "text",
+     "text": "Person and source logged, owner assigned"
+    },
+    {
+     "type": "text",
+     "text": "Call, quote, chase — all recorded"
+    },
+    {
+     "type": "text",
+     "text": "08"
+    },
+    {
+     "type": "text",
+     "text": "07"
+    },
+    {
+     "type": "text",
+     "text": "06"
+    },
+    {
+     "type": "text",
+     "text": "05"
+    },
+    {
+     "type": "text",
+     "text": "The report"
+    },
+    {
+     "type": "text",
+     "text": "The platform learns"
+    },
+    {
+     "type": "text",
+     "text": "Sent back"
+    },
+    {
+     "type": "text",
+     "text": "The booking"
+    },
+    {
+     "type": "text",
+     "text": "Cost per booking, weekday against weekend"
+    },
+    {
+     "type": "text",
+     "text": "Finds more people who book, not who click"
+    },
+    {
+     "type": "text",
+     "text": "Conversions API returns the booking and its value"
+    },
+    {
+     "type": "text",
+     "text": "Confirmed inside the site, not off it"
+    },
+    {
+     "type": "text",
+     "text": "Steps 3, 5 and 6 do not exist today. Build those three and every number in this deck becomes decision-grade. Meta's Conversions API for Business Messaging does step 6 for click-to-WhatsApp ads, which is how most enquiries already arrive."
+    },
+    {
+     "type": "text",
+     "text": "The loop runs left to right on the top row, then right to left on the bottom, back to the ad."
+    }
+   ],
+   "image": "/slides/slide-39.webp"
+  },
+  {
+   "n": 40,
+   "chapter": "tracking",
+   "title": "There is no CRM. Here is what that costs.",
+   "notes": "The aggregator point is the commercial argument that lands with an owner, more than any marketing argument on this slide.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "No attribution"
+    },
+    {
+     "type": "text",
+     "text": "No lead quality"
+    },
+    {
+     "type": "text",
+     "text": "Enquiries arrive by phone and WhatsApp — the only contact routes on the site — and nothing ties them to the campaign that caused them. Budgets get judged on clicks."
+    },
+    {
+     "type": "text",
+     "text": "1,259 Meta leads exist as a number and nothing else. Which were serious, which booked, which were wrong numbers — unknowable."
+    },
+    {
+     "type": "text",
+     "text": "No repeat business"
+    },
+    {
+     "type": "text",
+     "text": "No audiences"
+    },
+    {
+     "type": "text",
+     "text": "A corporate buyer who ran a good offsite last year is the cheapest lead the resort will ever have. Today nobody holds their name in a system that prompts a call."
+    },
+    {
+     "type": "text",
+     "text": "Retargeting, exclusions, lookalikes and weekday offers all need a list of who enquired and who booked. That list currently lives in people's phones."
+    },
+    {
+     "type": "text",
+     "text": "And underneath all four: 18,670 ratings on one booking aggregator is a dependency, not just a credential. The platform owns the customer, sets the price comparison and takes the margin. A CRM is how Guhantara starts owning its own demand."
+    },
+    {
+     "type": "text",
+     "text": "The client confirmed no CRM is in place."
+    }
+   ],
+   "image": "/slides/slide-40.webp"
+  },
+  {
+   "n": 41,
+   "chapter": "tracking",
+   "title": "What you would finally be able to see",
+   "notes": "Deliberately refusing to quote an industry qualified-lead benchmark is the honest move. Anyone can find a number online; nobody can find one for an underground cave resort in Bangalore.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Leads — every enquiry from every source, in one place"
+    },
+    {
+     "type": "text",
+     "text": "today: a number with no detail"
+    },
+    {
+     "type": "text",
+     "text": "MQL — right city, right party size, real contact details"
+    },
+    {
+     "type": "text",
+     "text": "today: invisible"
+    },
+    {
+     "type": "text",
+     "text": "SQL — reached, dates discussed, quote sent"
+    },
+    {
+     "type": "text",
+     "text": "today: invisible"
+    },
+    {
+     "type": "text",
+     "text": "Booked — room, day-out or offsite"
+    },
+    {
+     "type": "text",
+     "text": "today: invisible"
+    },
+    {
+     "type": "text",
+     "text": "With this you can price each stage: cost per MQL, cost per SQL, cost per booking — by channel, by campaign, by creative."
+    },
+    {
+     "type": "text",
+     "text": "You can also send the booked stage back to Meta and Google, so they stop optimising toward the cheapest click."
+    },
+    {
+     "type": "text",
+     "text": "Guhantara's own baseline sets the quality target. We would measure for one month before promising a percentage, rather than quoting an industry figure that may not fit a resort."
+    },
+    {
+     "type": "text",
+     "text": "Widths are illustrative of funnel shape, not measured values — no stage data exists yet."
+    }
+   ],
+   "image": "/slides/slide-41.webp"
+  },
+  {
+   "n": 42,
+   "chapter": "tracking",
+   "title": "The options worth considering now",
+   "notes": "Sourcing the prices to a third party and saying to verify them is deliberate. It stops a pricing challenge in the room from undermining the recommendation.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Option",
+       "From",
+       "WhatsApp",
+       "Fit for Guhantara"
+      ],
+      [
+       "Zoho CRM",
+       "₹800",
+       "Yes, via WhatsApp Business",
+       "Best all-round start. Handles corporate and event pipelines, guest profiles and follow-up automation, and connects to booking systems. Needs configuration to behave like hospitality software."
+      ],
+      [
+       "TeleCRM",
+       "₹799",
+       "Native, WhatsApp Cloud API",
+       "Built around calling and WhatsApp, which is exactly how enquiries already arrive here. Fastest route to a working system for a small team."
+      ],
+      [
+       "Freshsales",
+       "₹749",
+       "Not confirmed",
+       "Simple and quick to launch. Reasonable if the team stays small and WhatsApp is handled elsewhere."
+      ],
+      [
+       "HubSpot",
+       "Free tier, paid from $7",
+       "Not native",
+       "Strong free entry and good email tooling. Weaker on the calling and WhatsApp habits this business runs on."
+      ],
+      [
+       "LeadSquared",
+       "₹2,500",
+       "Not confirmed",
+       "Built for high-volume sales in education and finance. More than this stage of the business needs."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Prices are per user per month on annual billing, from a published Indian CRM comparison. Confirm current pricing with each vendor before committing — these move."
+    },
+    {
+     "type": "text",
+     "text": "Source: TeleCRM, Top 10 CRM software in India, read 29 Sep 2026."
+    }
+   ],
+   "image": "/slides/slide-42.webp"
+  },
+  {
+   "n": 43,
+   "chapter": "tracking",
+   "title": "Our recommendation turns on one question",
+   "notes": "The named owner is the make-or-break condition. Ask for the name in the room.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Are enquiries mostly calls and WhatsApp — or is there going to be a real sales pipeline for corporate and events?"
+    },
+    {
+     "type": "text",
+     "text": "Mostly calls and WhatsApp"
+    },
+    {
+     "type": "text",
+     "text": "A real pipeline to build"
+    },
+    {
+     "type": "text",
+     "text": "Either way"
+    },
+    {
+     "type": "text",
+     "text": "Start with Zoho CRM"
+    },
+    {
+     "type": "text",
+     "text": "Connect a WhatsApp Business API provider so every conversation is logged against a person, and name one owner at the resort. A CRM nobody is accountable for becomes an empty database in a month."
+    },
+    {
+     "type": "text",
+     "text": "Start with TeleCRM"
+    },
+    {
+     "type": "text",
+     "text": "Grows into corporate and wedding sales, connects to the booking system, more configuration up front."
+    },
+    {
+     "type": "text",
+     "text": "Live in days, built around how the team already works, native WhatsApp Cloud API."
+    },
+    {
+     "type": "text",
+     "text": "Migration and training decide whether a CRM is used or abandoned. Budget for both."
+    }
+   ],
+   "image": "/slides/slide-43.webp"
+  },
+  {
+   "n": 44,
+   "chapter": "tracking",
+   "title": "If WhatsApp is the pipeline, choose the provider deliberately",
+   "notes": "",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Provider",
+       "Where it fits",
+       "What to check before signing"
+      ],
+      [
+       "Wati",
+       "The widest adoption among Indian small and mid-sized businesses. Shared team inbox, broadcast templates, straightforward automation.",
+       "Per-seat cost as the front desk grows, and whether your plan exposes the API your CRM needs."
+      ],
+      [
+       "Interakt",
+       "Built for small teams that sell inside WhatsApp. Quick to set up, catalogue and order flows out of the box.",
+       "Depth of reporting, and whether it hands conversations to a CRM rather than trying to be one."
+      ],
+      [
+       "BiteSpeed",
+       "Campaign-led. Strong at broadcast, journeys and re-engaging people who dropped out of an enquiry.",
+       "That the journeys map to booking enquiries and not to an e-commerce cart."
+      ],
+      [
+       "LimeChat",
+       "The heaviest of the four, with AI-assisted agents. Made for high conversation volume.",
+       "Whether your enquiry volume justifies the cost, and how long implementation actually takes."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "All four are Meta-approved providers, so the WhatsApp capability is broadly the same. What differs is the cost as you grow and how cleanly each one hands a conversation to the CRM. Shortlist two, demo them against your own enquiry flow, and confirm the hand-off before you sign."
+    },
+    {
+     "type": "text",
+     "text": "Positioning as at September 2026. Pricing and features change often; verify at the demo."
+    }
+   ],
+   "image": "/slides/slide-44.webp"
+  },
+  {
+   "n": 45,
+   "chapter": "tracking",
+   "title": "Week one: stop the bleeding",
+   "notes": "Showing that half the week-one list is the client's own responsibility builds trust. It also protects us if those items slip.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Action",
+       "Owner",
+       "What it unlocks"
+      ],
+      [
+       "Resolve to one Meta pixel, one dataset, standard events",
+       "Us, with site access",
+       "Reporting that can be trusted"
+      ],
+      [
+       "Confirm whether Djubo can be embedded in the site",
+       "Client, with Djubo",
+       "The purchase event"
+      ],
+      [
+       "Fix the day-out page so it loads",
+       "Client's web team",
+       "Spend already running to a broken page"
+      ],
+      [
+       "Split day-out and rooms onto separate URLs",
+       "Client's web team",
+       "Product-level measurement"
+      ],
+      [
+       "Open a separate Meta ad account for Guhantara",
+       "Client",
+       "Clean learning for the algorithm"
+      ],
+      [
+       "Audit and retire Google conversion actions",
+       "Us, with account access",
+       "Bidding toward real outcomes"
+      ],
+      [
+       "Choose the CRM and name its owner",
+       "Client",
+       "Everything downstream"
+      ],
+      [
+       "Turn off the zero-lead placements",
+       "Us",
+       "₹67,188 of proven waste"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "None of these require new creative, a new agency retainer or a rebrand. They are the conditions under which the rest of the money starts working."
+    },
+    {
+     "type": "text",
+     "text": "Four of the eight sit with the client, which is why we are showing them now rather than after signing."
+    }
+   ],
+   "image": "/slides/slide-45.webp"
+  },
+  {
+   "n": 46,
+   "chapter": "website",
+   "title": "Where ₹45.65 lakh has been landing",
+   "notes": "This is the section that separates a media audit from a growth audit. Most agencies stop at the ad account.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION FIVE"
+    },
+    {
+     "type": "text",
+     "text": "Every rupee of media in this deck was spent driving people to one website. It is the least-examined asset in the whole operation and the reason two thirds of paid clicks never convert into a landing page view."
+    },
+    {
+     "type": "text",
+     "text": "Day-out page fails to load"
+    },
+    {
+     "type": "text",
+     "text": "One URL, two products"
+    },
+    {
+     "type": "text",
+     "text": "Logo treatment"
+    },
+    {
+     "type": "text",
+     "text": "Too many requests, page times out — while ads run to it"
+    },
+    {
+     "type": "text",
+     "text": "Day-out and rooms share a destination"
+    },
+    {
+     "type": "text",
+     "text": "Cut out and pasted on; it does not read as the brand"
+    },
+    {
+     "type": "text",
+     "text": "No premium feel"
+    },
+    {
+     "type": "text",
+     "text": "Key details hidden"
+    },
+    {
+     "type": "text",
+     "text": "No landing page testing"
+    },
+    {
+     "type": "text",
+     "text": "Nothing signals India's only cave resort"
+    },
+    {
+     "type": "text",
+     "text": "Room types, rates and inclusions are hard to find"
+    },
+    {
+     "type": "text",
+     "text": "One page for every campaign, never varied"
+    },
+    {
+     "type": "text",
+     "text": "Observed on the live site, September 2026."
+    }
+   ],
+   "image": "/slides/slide-46.webp"
+  },
+  {
+   "n": 47,
+   "chapter": "website",
+   "title": "Ads are running to a day-out page that does not load.",
+   "notes": "If the client takes one action from this presentation, it is this one. It costs nothing and it is losing money every day it runs.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "THE SINGLE MOST EXPENSIVE FAULT"
+    },
+    {
+     "type": "text",
+     "text": "The page returns too many requests and times out. Meanwhile paid traffic is being bought and sent to it."
+    },
+    {
+     "type": "text",
+     "text": "This alone would depress the landing-page-view rate across the whole account. It is a strong candidate for a large share of the 66% of clicks that never arrive."
+    },
+    {
+     "type": "text",
+     "text": "Day-out is the higher-volume product and the one the aggregators dominate. It is exactly the traffic Guhantara most needs to own directly."
+    },
+    {
+     "type": "text",
+     "text": "Fix this before any other recommendation in this deck."
+    }
+   ],
+   "image": "/slides/slide-47.webp"
+  },
+  {
+   "n": 48,
+   "chapter": "website",
+   "title": "Two products, two buyers, one destination",
+   "notes": "The 44% figure is why retargeting and a content library matter more than a single burst campaign for the stay product.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The day-out buyer"
+    },
+    {
+     "type": "text",
+     "text": "The stay buyer"
+    },
+    {
+     "type": "text",
+     "text": "What both get"
+    },
+    {
+     "type": "text",
+     "text": "A family or a group planning a Sunday. Wants price per head, timings, the activity list, how far it is, whether children are catered for. Decides in a day."
+    },
+    {
+     "type": "text",
+     "text": "A couple or a family booking a night underground. Wants room types, photographs of the interiors, rates, what is included, what the cave is actually like. Takes over a week."
+    },
+    {
+     "type": "text",
+     "text": "The same URL. The same promotional homepage. Neither finds what they came for quickly, and the ad's promise is broken within two seconds of the click."
+    },
+    {
+     "type": "text",
+     "text": "Beyond the conversion loss, this makes product-level measurement impossible. There is no way to say whether day-out or stay advertising works, because both land in the same place and neither fires a distinct event."
+    },
+    {
+     "type": "text",
+     "text": "Four pages are needed, not one: day-out, stay, corporate offsite, weddings and events. Each with its own URL, its own event, its own ad set."
+    },
+    {
+     "type": "text",
+     "text": "Indian travellers touch an average of 7 touchpoints before booking, and 44% take more than a week. Source: Think with Google APAC."
+    }
+   ],
+   "image": "/slides/slide-48.webp"
+  },
+  {
+   "n": 49,
+   "chapter": "website",
+   "title": "The logo is on the page, not part of it",
+   "notes": "Keep this measured. The point is not that the logo is ugly, it is that it is not doing any work.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "What it looks like today"
+    },
+    {
+     "type": "text",
+     "text": "What a brand mark has to do here"
+    },
+    {
+     "type": "text",
+     "text": "Cut out and dropped onto the header\nNo clear space, no consistent size\nSits over imagery it was not made for\nReads as a placeholder, not an identity\nNothing about it says cave, or South India, or premium"
+    },
+    {
+     "type": "text",
+     "text": "Survive at 40px on a phone and at 4 metres on a banquet banner\nWork in gold on dark stone and in single colour on a bill\nCarry the one idea no competitor can copy: it is underground\nAnchor a system — lockups, clear space, secondary marks for Sambhojana, Rangamandapa, Agastya Kuteera"
+    },
+    {
+     "type": "text",
+     "text": "A property with 21,392 reviews and a genuinely unrepeatable asset is presenting itself with an identity that would not look out of place on any of the twenty resorts it competes with."
+    },
+    {
+     "type": "text",
+     "text": "Observation from the live site. A full identity audit sits in the branding deck."
+    }
+   ],
+   "image": "/slides/slide-49.webp"
+  },
+  {
+   "n": 50,
+   "chapter": "website",
+   "title": "The website sells a discount. The property is worth more than that.",
+   "notes": "One rate in the engine also does not compute: Lithic with all meals shows 11,800 struck through and 8,400 after a 20% discount, which would be 9,440. Likely a mis-keyed rate; worth flagging to the client separately.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "What the site does",
+       "What it signals to a buyer"
+      ],
+      [
+       "Leads with 20–30% off codes",
+       "A crowd. Wait for a better code. Do not book at full price."
+      ],
+      [
+       "Struck-through prices in the booking engine itself",
+       "The real price is the lower one. Every guest learns this at checkout."
+      ],
+      [
+       "\"Bangalore's Best Kept Secret\" with emojis",
+       "A day-out venue, not a destination worth travelling for."
+      ],
+      [
+       "Little real imagery of the cave interiors",
+       "No proof of the one thing that cannot be copied."
+      ],
+      [
+       "No room types, capacities or rates on the page",
+       "The stay product barely exists; go to an aggregator instead."
+      ],
+      [
+       "No guest reviews despite 21,392 of them",
+       "Nothing to reassure a buyer who has seen 3.7 stars elsewhere."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Every weekday rate in the booking engine already carries a 20% discount by default — the checkout teaches the discount habit before the guest has even chosen a room."
+    },
+    {
+     "type": "text",
+     "text": "Replace the percentage with something the weekend crowd cannot get: a private amphitheatre slot, a spa credit, a guided tunnel trek. Add value; protect the rate."
+    },
+    {
+     "type": "text",
+     "text": "Live rates confirmed from the booking engine, September 2026."
+    }
+   ],
+   "image": "/slides/slide-50.webp"
+  },
+  {
+   "n": 51,
+   "chapter": "website",
+   "title": "Three sites worth putting beside yours",
+   "notes": "",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "None of these three owns a cave. All three sell a stay better than guhantara.com sells one."
+    },
+    {
+     "type": "text",
+     "text": "Aldovia"
+    },
+    {
+     "type": "text",
+     "text": "CGH Earth"
+    },
+    {
+     "type": "text",
+     "text": "Discovery Village"
+    },
+    {
+     "type": "text",
+     "text": "aldovia.in"
+    },
+    {
+     "type": "text",
+     "text": "cghearth.com"
+    },
+    {
+     "type": "text",
+     "text": "discoveryvillage.in"
+    },
+    {
+     "type": "text",
+     "text": "discoveryvillage.in"
+    },
+    {
+     "type": "text",
+     "text": "Rooms, rates and capacities are on the page. Corporate and convention gets its own route through the site — the buyer Guhantara has no page for at all."
+    },
+    {
+     "type": "text",
+     "text": "Prices the experience, never the discount. No codes on the homepage, photography that carries the property, every place allowed a story of its own."
+    },
+    {
+     "type": "text",
+     "text": "Day-out and stay are properly separated, with activity pages built the way people search. The direct competitor for weekday day-out demand."
+    },
+    {
+     "type": "text",
+     "text": "Reference for structure and positioning, not for visual design. Reviewed September 2026."
+    }
+   ],
+   "image": "/slides/slide-51.webp"
+  },
+  {
+   "n": 52,
+   "chapter": "website",
+   "title": "The things a buyer needs are the hardest to find",
+   "notes": "Ask the client directly whether the \"people looking\" counts are live. It is a small thing that can undo a premium repositioning.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "These are the live rates. None of them appear on the website in a form a visitor can compare. They are three clicks away on a different domain."
+    },
+    {
+     "type": "text",
+     "text": "Not all rooms are caves"
+    },
+    {
+     "type": "text",
+     "text": "Glamp House is a wooden cabin above ground. The cave story covers some rooms, not all — and the site never says which."
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Room",
+       "Room only",
+       "B&B",
+       "All meals"
+      ],
+      [
+       "Primitive",
+       "₹4,620",
+       "₹5,040",
+       "₹7,560"
+      ],
+      [
+       "Lithic",
+       "₹5,460",
+       "₹5,880",
+       "₹8,400"
+      ],
+      [
+       "Glamp House",
+       "₹3,360",
+       "₹3,780",
+       "₹6,300"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "\"7–8 people looking\""
+    },
+    {
+     "type": "text",
+     "text": "Urgency labels sit on every room. If they are real, they help. If generated, they are a trust risk on a page whose reviews already need support."
+    },
+    {
+     "type": "text",
+     "text": "Per night, one adult, taxes included, weekday 20% offer applied."
+    },
+    {
+     "type": "text",
+     "text": "The top rooms are invisible"
+    },
+    {
+     "type": "text",
+     "text": "Lithic Suite and Cave Suite — the rooms the cave story sells hardest — are not surfaced anywhere a buyer would look."
+    },
+    {
+     "type": "text",
+     "text": "Source: Djubo booking engine, read September 2026."
+    }
+   ],
+   "image": "/slides/slide-52.webp"
+  },
+  {
+   "n": 53,
+   "chapter": "website",
+   "title": "Four landing pages, one for each buyer",
+   "notes": "Four pages is the minimum. The corporate page is the one that pays for the weekday strategy.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Day-out"
+    },
+    {
+     "type": "text",
+     "text": "Stay"
+    },
+    {
+     "type": "text",
+     "text": "Corporate offsite"
+    },
+    {
+     "type": "text",
+     "text": "Weddings & events"
+    },
+    {
+     "type": "text",
+     "text": "Price per head, timings, activity list, drive time, what children get. Book or WhatsApp above the fold."
+    },
+    {
+     "type": "text",
+     "text": "Room types with real interior photographs, rates, which rooms are underground and which are not, the descent as the hero."
+    },
+    {
+     "type": "text",
+     "text": "700-seat amphitheatre, conference space, sample day plan, per-head range, downloadable proposal, short brief form into the CRM."
+    },
+    {
+     "type": "text",
+     "text": "Capacity, per-plate rates, the venues by name, real event photography, enquiry form into the CRM."
+    },
+    {
+     "type": "text",
+     "text": "Highest volume · fix first"
+    },
+    {
+     "type": "text",
+     "text": "Highest value per booking"
+    },
+    {
+     "type": "text",
+     "text": "Fills weekdays"
+    },
+    {
+     "type": "text",
+     "text": "Highest ticket"
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Every page carries",
+       "Why"
+      ],
+      [
+       "Its own URL and event",
+       "Product-level measurement becomes possible for the first time"
+      ],
+      [
+       "Click-to-WhatsApp with the page pre-filled, beside Book Now",
+       "WhatsApp is how enquiries already arrive, and it can be tracked"
+      ],
+      [
+       "Honest recent reviews, weekdays framed as the quiet time",
+       "A 3.7 rating costs conversions; hiding it costs more"
+      ],
+      [
+       "An FAQ answering the real hesitations",
+       "Is it claustrophobic, is it safe, children, older guests, drive time"
+      ],
+      [
+       "Campaign tags carried into the booking engine",
+       "Without this the loop still breaks at the domain boundary"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Most Reels traffic arrives on a phone: compress the hero video, load it lazily, keep the first screen light."
+    }
+   ],
+   "image": "/slides/slide-53.webp"
+  },
+  {
+   "n": 54,
+   "chapter": "website",
+   "title": "The stay page, top to bottom",
+   "notes": "This is a content order, not a layout. Make that clear so nobody reviews it as a design.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Above the fold"
+    },
+    {
+     "type": "text",
+     "text": "Hero video of the descent. One line. Book Now and WhatsApp side by side."
+    },
+    {
+     "type": "text",
+     "text": "Lead with the descent, not the pool"
+    },
+    {
+     "type": "text",
+     "text": "Going underground is the only thing on this property that photographs unlike anywhere else near Bangalore. It should be the first thing a visitor sees and the last thing they remember."
+    },
+    {
+     "type": "text",
+     "text": "The rooms — real interiors, rates, underground or above ground, marked clearly"
+    },
+    {
+     "type": "text",
+     "text": "Show the price, drop the strike-through"
+    },
+    {
+     "type": "text",
+     "text": "Replace the percentage with something the weekend crowd cannot get. A discount signals a crowd; the buyer for a cave room is escaping one."
+    },
+    {
+     "type": "text",
+     "text": "What a night is like — the tunnel, the amphitheatre, the spa, the quiet"
+    },
+    {
+     "type": "text",
+     "text": "Answer the fear before the sell"
+    },
+    {
+     "type": "text",
+     "text": "Reviews — recent, honest, weekdays framed as the quiet time"
+    },
+    {
+     "type": "text",
+     "text": "\"Is it claustrophobic\" is the question that stops a first-time booking. Answering it plainly converts better than any offer."
+    },
+    {
+     "type": "text",
+     "text": "FAQ — claustrophobia, safety, children, older guests, drive time"
+    },
+    {
+     "type": "text",
+     "text": "Booking — embedded, on the page, never a redirect"
+    }
+   ],
+   "image": "/slides/slide-54.webp"
+  },
+  {
+   "n": 55,
+   "chapter": "website",
+   "title": "Nothing has ever been tested. That is the opportunity.",
+   "notes": "The client asked specifically for landing page testing. This slide answers that ask directly and gives them a running order.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Landing pages in use"
+    },
+    {
+     "type": "text",
+     "text": "Tests run in 21 months"
+    },
+    {
+     "type": "text",
+     "text": "Current landing rate"
+    },
+    {
+     "type": "text",
+     "text": "1"
+    },
+    {
+     "type": "text",
+     "text": "0"
+    },
+    {
+     "type": "text",
+     "text": "33.7%"
+    },
+    {
+     "type": "text",
+     "text": "For every campaign, every product, every audience"
+    },
+    {
+     "type": "text",
+     "text": "No variant, no split, no learning"
+    },
+    {
+     "type": "text",
+     "text": "Against a 60–70% floor"
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Test",
+       "What we vary",
+       "What it tells us"
+      ],
+      [
+       "Hero",
+       "Descent video against the current promotional banner",
+       "Whether the cave story sells better than the discount"
+      ],
+      [
+       "Offer",
+       "Percentage off against a value-add of equal cost",
+       "Whether we can protect the rate"
+      ],
+      [
+       "Action",
+       "WhatsApp-first against Book Now-first",
+       "Which route this audience actually prefers"
+      ],
+      [
+       "Proof",
+       "Reviews shown against reviews hidden",
+       "Whether honesty about the rating helps or hurts"
+      ],
+      [
+       "Length",
+       "Short page against a full story page",
+       "How much convincing the stay product needs"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "One test at a time, each to a decision. Testing five things at once teaches nothing."
+    }
+   ],
+   "image": "/slides/slide-55.webp"
+  },
+  {
+   "n": 56,
+   "chapter": "creative",
+   "title": "The creative is not bad. It is tired.",
+   "notes": "Say clearly that we have not seen the creative-level data. We are working from the client's observation and the cost-per-lead trend, which is enough to recommend a cadence but not to grade individual assets.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION SIX"
+    },
+    {
+     "type": "text",
+     "text": "What we found"
+    },
+    {
+     "type": "text",
+     "text": "What it costs"
+    },
+    {
+     "type": "text",
+     "text": "What is missing"
+    },
+    {
+     "type": "text",
+     "text": "Creatives first launched in July are still running unrotated. Image and video quality is inconsistent across the set, and the messaging is built around the offer rather than around the person being shown it."
+    },
+    {
+     "type": "text",
+     "text": "Frequency climbs, click-through falls, cost per lead drifts up. It is a credible part of why cost per lead moved from ₹236 in January to ₹698 by September."
+    },
+    {
+     "type": "text",
+     "text": "Volume and test frequency are far below what this spend needs. No variant structure, no audience-specific messaging, no budget set aside for creative that might fail. Winners are never found because losers are never run."
+    },
+    {
+     "type": "text",
+     "text": "Three fixes, in order: raise production quality on the cave itself, rewrite the messaging per audience against what each one actually responds to, and increase the number of creatives in market and the rate at which they are tested."
+    },
+    {
+     "type": "text",
+     "text": "Creative-level export was not in scope for this audit; observations are from the account and the client's own review."
+    }
+   ],
+   "image": "/slides/slide-56.webp"
+  },
+  {
+   "n": 57,
+   "chapter": "creative",
+   "title": "A creative cadence, not a creative opinion",
+   "notes": "The last card connects creative back to the review problem. Reach is solvable with content; conversion is not, while the rating sits at 3.7.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Every month",
+       "What ships",
+       "Rule"
+      ],
+      [
+       "Hero concepts",
+       "2 new ideas, properly produced",
+       "Built on the brand territory, not the offer"
+      ],
+      [
+       "Iterations",
+       "4–6 variants of whatever is winning",
+       "Change one thing: hook, first frame, or caption"
+      ],
+      [
+       "Guest and creator content",
+       "4–8 pieces, lightly produced",
+       "Cheapest way to find an unexpected winner"
+      ],
+      [
+       "Retirement",
+       "Anything past 6 weeks or with rising frequency comes off",
+       "No creative runs indefinitely because it once worked"
+      ],
+      [
+       "Test budget",
+       "A fixed slice, ring-fenced, allowed to fail",
+       "If nothing is allowed to lose, nothing new can win"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Reels out-engage static posts by roughly 2.5× in hospitality — 0.38% against 0.15%. The format split should follow that, not habit."
+    },
+    {
+     "type": "text",
+     "text": "30–60 seconds reaches best, at 5.60%. Past 90 seconds performance falls off sharply. Build the spec around that."
+    },
+    {
+     "type": "text",
+     "text": "72% of Indians discover offbeat destinations through Reels, but 52% need good reviews before booking. Reels fill the top; the rating decides the bottom."
+    },
+    {
+     "type": "text",
+     "text": "Sources: Socialinsider Instagram Reels statistics 2026; zingbus survey, n=2,371."
+    }
+   ],
+   "image": "/slides/slide-57.webp"
+  },
+  {
+   "n": 58,
+   "chapter": "creative",
+   "title": "Corporate video, in the 25–44 bracket",
+   "notes": "The corporate observation came from the client. The age data supports it. Together they are the strongest positive story in the deck: something here already works and has never been funded properly.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "THE ONE THING THAT IS CLEARLY WORKING"
+    },
+    {
+     "type": "text",
+     "text": "25–34"
+    },
+    {
+     "type": "text",
+     "text": "35–44"
+    },
+    {
+     "type": "text",
+     "text": "18–24"
+    },
+    {
+     "type": "text",
+     "text": "₹1,127"
+    },
+    {
+     "type": "text",
+     "text": "₹957"
+    },
+    {
+     "type": "text",
+     "text": "₹1,857"
+    },
+    {
+     "type": "text",
+     "text": "440 leads · the best rate in the account"
+    },
+    {
+     "type": "text",
+     "text": "123 leads · browses, shares, rarely books"
+    },
+    {
+     "type": "text",
+     "text": "561 leads · 42.3% of spend · the core"
+    },
+    {
+     "type": "text",
+     "text": "Scale it. Corporate video should get its own campaign, its own landing page and its own budget line — targeted at 25–44, which is where offsite decisions are actually made."
+    },
+    {
+     "type": "text",
+     "text": "Split 18–24 out. They are the audience that films and shares. Fund them as reach and UGC, judged on saves and shares — not as a lead source they will never be."
+    },
+    {
+     "type": "text",
+     "text": "Source: Meta Ads Manager age breakdown, plus the client's own read on which creative drives corporate enquiries."
+    }
+   ],
+   "image": "/slides/slide-58.webp"
+  },
+  {
+   "n": 59,
+   "chapter": "creative",
+   "title": "The rain dance is outselling the cave",
+   "notes": "Mark this clearly as a hypothesis from review language. It is persuasive and it is not yet proven.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Why it matters commercially"
+    },
+    {
+     "type": "text",
+     "text": "What the reviews suggest"
+    },
+    {
+     "type": "text",
+     "text": "A rain dance is a ₹1,499 day ticket sold to a crowd. A cave is an ₹11,300 room, a ₹1,500-a-plate wedding and a corporate booking of the whole property."
+    },
+    {
+     "type": "text",
+     "text": "Across thousands of reviews, the rain dance and the pool are cited more often than the cave. Guests are booking a water park that happens to be underground."
+    },
+    {
+     "type": "text",
+     "text": "Why it happened"
+    },
+    {
+     "type": "text",
+     "text": "The advertising, the website and the booking engine all lead with activities and discounts. Guests are simply buying what they were sold."
+    },
+    {
+     "type": "text",
+     "text": "Thrillophilia even lists the property as \"underground location 10 m below ground, with water park\" — the cave has become the adjective."
+    },
+    {
+     "type": "text",
+     "text": "What to verify"
+    },
+    {
+     "type": "text",
+     "text": "Booking mix by product — which the client can pull from the booking engine and we cannot. It confirms or kills this reading in an afternoon."
+    },
+    {
+     "type": "text",
+     "text": "A reading of review themes, not a measured split. Flagged for verification against booking data."
+    }
+   ],
+   "image": "/slides/slide-59.webp"
+  },
+  {
+   "n": 60,
+   "chapter": "creative",
+   "title": "Every fault in this deck has the same shape: Guhantara is selling its amenities and giving away its architecture.",
+   "notes": "This is the bridge from audit to brand work. It absolves the individuals and indicts the strategy, which is how you keep a room on side.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The ads lead with price and activity count"
+    },
+    {
+     "type": "text",
+     "text": "The website leads with a discount code"
+    },
+    {
+     "type": "text",
+     "text": "The booking engine discounts before a room is chosen"
+    },
+    {
+     "type": "text",
+     "text": "The guests come for the rain dance"
+    },
+    {
+     "type": "text",
+     "text": "Nobody in that chain is doing anything wrong. They are all following the same instruction, which was set years ago and has never been revisited."
+    },
+    {
+     "type": "text",
+     "text": "The next slide is the decision that changes all four at once."
+    }
+   ],
+   "image": "/slides/slide-60.webp"
+  },
+  {
+   "n": 61,
+   "chapter": "creative",
+   "title": "Three territories. One decision.",
+   "notes": "Ask for the decision in the room. Everything downstream is blocked on it.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "One"
+    },
+    {
+     "type": "text",
+     "text": "Two"
+    },
+    {
+     "type": "text",
+     "text": "Three · recommended"
+    },
+    {
+     "type": "text",
+     "text": "The Other Bangalore"
+    },
+    {
+     "type": "text",
+     "text": "India's First"
+    },
+    {
+     "type": "text",
+     "text": "Descend"
+    },
+    {
+     "type": "text",
+     "text": "Own the history. A piece of Karnataka engineering nobody has repeated in over a decade."
+    },
+    {
+     "type": "text",
+     "text": "The going-under is the experience. The threshold, the temperature drop, the tunnel, the amphitheatre."
+    },
+    {
+     "type": "text",
+     "text": "The city's opposite, 35 km away. Cool, dark, quiet. The cave as relief, not novelty."
+    },
+    {
+     "type": "text",
+     "text": "\"There is only one.\""
+    },
+    {
+     "type": "text",
+     "text": "\"Go down.\""
+    },
+    {
+     "type": "text",
+     "text": "\"Bangalore, but underground.\""
+    },
+    {
+     "type": "text",
+     "text": "Best for corporates and weddings. Needs an origin story nobody has documented."
+    },
+    {
+     "type": "text",
+     "text": "Every reel has a structure built in. A guest filming their first descent is making the ad."
+    },
+    {
+     "type": "text",
+     "text": "Safest. Argues against the day-out crowd that currently pays the bills."
+    },
+    {
+     "type": "text",
+     "text": "Our recommendation: Three, with Two as the proof. Descend gives a content engine that works from day one and needs nothing the property does not already have. \"India's first\" sits underneath it as the credential that makes the claim defensible."
+    },
+    {
+     "type": "text",
+     "text": "This choice decides every slide of the branding and social decks that follow."
+    }
+   ],
+   "image": "/slides/slide-61.webp"
+  },
+  {
+   "n": 62,
+   "chapter": "weekday",
+   "title": "Weekdays are empty because the current audience is at work.",
+   "notes": "The client raised weekday fill as one of their four asks. Answer it head-on and do not hedge: the discount approach has been tried and has not worked.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION SEVEN"
+    },
+    {
+     "type": "text",
+     "text": "Guhantara already discounts weekdays by 25% and weekends by 15%. It has not solved the problem, and it was never going to."
+    },
+    {
+     "type": "text",
+     "text": "Discounting a crowd product to the same crowd on a day that crowd is unavailable moves very little."
+    },
+    {
+     "type": "text",
+     "text": "It also teaches every guest to wait for the code, which depresses the weekend rate too."
+    },
+    {
+     "type": "text",
+     "text": "The answer is a different buyer, not a bigger discount. Five of them are free on a Tuesday."
+    },
+    {
+     "type": "text",
+     "text": "Current offers per the client: weekdays 25% off, weekends 15% off."
+    }
+   ],
+   "image": "/slides/slide-62.webp"
+  },
+  {
+   "n": 63,
+   "chapter": "weekday",
+   "title": "Five buyers who are free on a Tuesday",
+   "notes": "Label these as hypotheses. They are reasoned from the property's assets and the age data, not measured.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Segment",
+       "Why they are free midweek",
+       "The offer to build",
+       "Where it runs"
+      ],
+      [
+       "Corporate teams",
+       "Offsites are booked in working hours",
+       "Weekday offsite package, per head, with venue, activities and a facilitator bundled",
+       "LinkedIn, direct HR outreach, Google search"
+      ],
+      [
+       "Remote and hybrid workers",
+       "Their week is flexible",
+       "Work-from-the-cave day pass: quiet space, connectivity, lunch, spa slot after",
+       "Instagram Reels, creator content"
+      ],
+      [
+       "Couples on flexible leave",
+       "Weekday rooms are cheaper and quieter",
+       "A midweek stay framed as the quiet version, not the discounted one",
+       "Reels, saves, retargeting"
+      ],
+      [
+       "Retirees and wellness seekers",
+       "Time is not the constraint",
+       "Weekday spa-and-stay built around Agastya Kuteera",
+       "Facebook, WhatsApp, local search"
+      ],
+      [
+       "Event and wedding planners",
+       "Scouting and small functions happen midweek",
+       "Weekday site visit and a weekday function rate",
+       "Venue platforms, referral"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Corporate is the biggest and the easiest. One person with a budget and a deadline, rather than a crowd to persuade. Guhantara already has the amphitheatre, the conference space, 18 rooms and one enclosed site."
+    },
+    {
+     "type": "text",
+     "text": "And it is a repeat purchase. A good offsite books again next year — but only if the buyer is captured in a CRM. This is where the tracking work pays for itself."
+    },
+    {
+     "type": "text",
+     "text": "Proposed segments to test, not proven demand."
+    }
+   ],
+   "image": "/slides/slide-63.webp"
+  },
+  {
+   "n": 64,
+   "chapter": "weekday",
+   "title": "Two rules that stop this becoming another discount",
+   "notes": "Closing the loop again on measurement. By now the room should be expecting it.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Rule one"
+    },
+    {
+     "type": "text",
+     "text": "Rule two"
+    },
+    {
+     "type": "text",
+     "text": "Add value, do not cut price"
+    },
+    {
+     "type": "text",
+     "text": "Measure weekday and weekend separately"
+    },
+    {
+     "type": "text",
+     "text": "A weekday offer that includes something the weekend crowd cannot get — a private amphitheatre slot, a guided tunnel trek, a facilitator, a spa credit — protects the rate and trains nobody to wait for a code."
+    },
+    {
+     "type": "text",
+     "text": "From day one, report the two as separate lines. Otherwise a good weekend hides a bad Tuesday, and neither the client nor we can tell whether any of this worked."
+    },
+    {
+     "type": "text",
+     "text": "Both rules depend on the CRM and the booking event. Without them, weekday occupancy is a number somebody reads off a spreadsheet once a month, not something a campaign can be steered by."
+    },
+    {
+     "type": "text",
+     "text": "Everything in this deck eventually points back to section four."
+    }
+   ],
+   "image": "/slides/slide-64.webp"
+  },
+  {
+   "n": 65,
+   "chapter": "supperclub",
+   "title": "Supperclub: 10,000+ membership sign-ups",
+   "notes": "Do not oversell the similarity. The transferable thing is the acquisition system, not the product.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "SECTION EIGHT · CASE STUDY"
+    },
+    {
+     "type": "text",
+     "text": "Supperclub"
+    },
+    {
+     "type": "text",
+     "text": "Membership sign-ups delivered"
+    },
+    {
+     "type": "text",
+     "text": "Supperclub opens high-end hotels and restaurants across the UAE, sold on seamless bookings, unlimited guests and substantial discounts."
+    },
+    {
+     "type": "text",
+     "text": "Its buyers are tourists and frequent visitors, residents, and families hosting friends and relatives. We ran the acquisition that took its membership past ten thousand sign-ups."
+    },
+    {
+     "type": "text",
+     "text": "It is a different category and a different country. The reason it matters here is what the machine underneath it looked like."
+    },
+    {
+     "type": "text",
+     "text": "A premium dining and lifestyle membership across the UAE."
+    },
+    {
+     "type": "text",
+     "text": "supperclubme.com · Alttred Nexxus ran membership sign-up acquisition."
+    }
+   ],
+   "image": "/slides/slide-65.webp"
+  },
+  {
+   "n": 66,
+   "chapter": "supperclub",
+   "title": "What transfers to Guhantara",
+   "notes": "Placeholders: we still need the Supperclub timeframe, total spend, cost per sign-up at start and end, channel split, best-performing audience, and what failed. Fill these before this deck goes to the client.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "What worked at Supperclub",
+       "What it becomes here"
+      ],
+      [
+       "One clear paid action, measured as a real conversion",
+       "One booked action per audience: day-out ticket, room night, offsite enquiry"
+      ],
+      [
+       "Segmented audiences with different reasons to join — visitors, residents, hosts",
+       "Segmented audiences with different reasons to book — offsite organiser, family, couple, wedding"
+      ],
+      [
+       "Reach a person planning a trip before they arrive",
+       "Reach a Bangalore weekender before the weekend, a corporate planner a month before the offsite"
+      ],
+      [
+       "Members return, so the sign-up is the start of value",
+       "A weekday pass turns a one-off booking into a repeat customer whose data you hold"
+      ],
+      [
+       "Sign-ups measured per source, so spend followed what worked",
+       "Bookings measured per ad, so spend follows what fills rooms"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "The last two rows are the ones that matter. Supperclub's sign-ups were traceable and owned. Guhantara's bookings are currently neither."
+    },
+    {
+     "type": "text",
+     "text": "The honest version: this was repeatable acquisition, not a lucky campaign. But it only worked because the measurement existed first — which is exactly what this deck is asking Guhantara to build."
+    },
+    {
+     "type": "text",
+     "text": "Timeframe, spend and cost per sign-up to be added from our own records before presenting."
+    }
+   ],
+   "image": "/slides/slide-66.webp"
+  },
+  {
+   "n": 67,
+   "chapter": "plan",
+   "title": "Six months, if the measurement holds",
+   "notes": "",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Metric",
+       "Month 1",
+       "Month 2",
+       "Month 3",
+       "Month 4",
+       "Month 5",
+       "Month 6"
+      ],
+      [
+       "Meta spend",
+       "₹1,80,000",
+       "₹1,98,000",
+       "₹2,37,600",
+       "₹2,85,120",
+       "₹3,42,144",
+       "₹4,10,573"
+      ],
+      [
+       "Google spend",
+       "₹90,000",
+       "₹99,000",
+       "₹1,08,900",
+       "₹1,19,790",
+       "₹1,31,769",
+       "₹1,44,946"
+      ],
+      [
+       "Total spend",
+       "₹2,70,000",
+       "₹2,97,000",
+       "₹3,46,500",
+       "₹4,04,910",
+       "₹4,73,913",
+       "₹5,55,519"
+      ],
+      [
+       "Total leads",
+       "560",
+       "689",
+       "909",
+       "1,144",
+       "1,522",
+       "1,959"
+      ],
+      [
+       "Blended cost per lead",
+       "₹482",
+       "₹431",
+       "₹381",
+       "₹354",
+       "₹311",
+       "₹284"
+      ],
+      [
+       "MQLs",
+       "156 · 27.9%",
+       "192 · 27.8%",
+       "284 · 31.3%",
+       "357 · 31.2%",
+       "548 · 36.0%",
+       "705 · 36.0%"
+      ],
+      [
+       "SQLs",
+       "47 · 8.4%",
+       "57 · 8.3%",
+       "99 · 10.9%",
+       "125 · 10.9%",
+       "219 · 14.4%",
+       "282 · 14.4%"
+      ],
+      [
+       "Bookings",
+       "23",
+       "29",
+       "50",
+       "69",
+       "120",
+       "155"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Cost per lead falls 41% while bookings multiply 6.6 times. Spend roughly doubles over the six months, so the gain is in efficiency as well as volume: cost per booking goes from about ₹11,500 in month one to about ₹3,600 in month six."
+    },
+    {
+     "type": "text",
+     "text": "Media plan supplied by Alttred Nexxus. Funnel rates are planning assumptions and get re-baselined after one clean month. MQL and SQL shown as a count and as a share of total leads."
+    }
+   ],
+   "image": "/slides/slide-67.webp"
+  },
+  {
+   "n": 68,
+   "chapter": "plan",
+   "title": "Month one: where the ₹2,70,000 goes",
+   "notes": "",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "META AND INSTAGRAM  ·  66% OF BUDGET"
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Category",
+       "Funnel",
+       "Audience",
+       "Spend",
+       "Leads",
+       "Cost per lead"
+      ],
+      [
+       "Day outs",
+       "TOF",
+       "Interest and affinity",
+       "₹45,000",
+       "125",
+       "₹360"
+      ],
+      [
+       "Day outs",
+       "MOF",
+       "Lookalikes",
+       "₹36,000",
+       "106",
+       "₹340"
+      ],
+      [
+       "Stay",
+       "TOF",
+       "Interest and affinity",
+       "₹36,000",
+       "79",
+       "₹455"
+      ],
+      [
+       "Stay",
+       "MOF",
+       "Lookalikes",
+       "₹36,000",
+       "88",
+       "₹410"
+      ],
+      [
+       "Awareness",
+       "TOF",
+       "Interest, affinity and lookalikes",
+       "₹27,000",
+       "—",
+       "—"
+      ],
+      [
+       "Total",
+       "",
+       "",
+       "₹1,80,000",
+       "400",
+       "₹450"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "GOOGLE  ·  34% OF BUDGET"
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Category",
+       "Campaign",
+       "Spend",
+       "Clicks",
+       "Enquiries",
+       "Cost per enquiry"
+      ],
+      [
+       "Day outs",
+       "Search, brand terms",
+       "₹36,000",
+       "3,000",
+       "62",
+       "₹580"
+      ],
+      [
+       "Stay",
+       "Demand Gen",
+       "₹36,000",
+       "2,250",
+       "64",
+       "₹560"
+      ],
+      [
+       "Day outs",
+       "Search, non-brand",
+       "₹18,000",
+       "1,000",
+       "38",
+       "₹480"
+      ],
+      [
+       "Total",
+       "",
+       "₹90,000",
+       "6,429",
+       "161",
+       "₹560"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "Each product is bought separately, at both stages of the funnel, against its own audience — which is what makes the reporting in the next section possible."
+    },
+    {
+     "type": "text",
+     "text": "Media plan supplied by Alttred Nexxus. Lead and enquiry counts are the plan’s own targets, not a guarantee. Awareness carries no lead target by design."
+    }
+   ],
+   "image": "/slides/slide-68.webp"
+  },
+  {
+   "n": 69,
+   "chapter": "plan",
+   "title": "Ninety days",
+   "notes": "Refusing to promise a percentage is the most credible thing in this deck. Say it plainly and do not let anyone talk you into a figure in the room.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Days 1–30 · Fix"
+    },
+    {
+     "type": "text",
+     "text": "Days 31–60 · Build"
+    },
+    {
+     "type": "text",
+     "text": "Days 61–90 · Prove"
+    },
+    {
+     "type": "text",
+     "text": "Make the numbers real"
+    },
+    {
+     "type": "text",
+     "text": "Point the money at the right people"
+    },
+    {
+     "type": "text",
+     "text": "Report on bookings, not clicks"
+    },
+    {
+     "type": "text",
+     "text": "One pixel, one dataset\nDay-out page loading\nDay-out and rooms on separate URLs\nSeparate Meta ad account\nGoogle conversion actions rebuilt\nCRM chosen, owner named, live\nZero-lead placements off\nBooking embedded or cross-domain tracking in place\nFirst landing page test running"
+    },
+    {
+     "type": "text",
+     "text": "Four landing pages live\nBudget reweighted to women and Instagram\nFeed budget into Reels and Stories\nCorporate campaign and page launched\nCreative cadence begins"
+    },
+    {
+     "type": "text",
+     "text": "First clean month of cost per booking\nWeekday and weekend reported separately\nMQL, SQL and booked rates baselined\nWeekday offers live and measured\nBrand territory agreed and applied\nSpend reduction target set on real data"
+    },
+    {
+     "type": "text",
+     "text": "We will not promise a spend reduction percentage on day one. We will commit to a target at day 60, once one month of clean data exists. Quoting a number now would be guessing, and this client has had enough numbers that were not real."
+    },
+    {
+     "type": "text",
+     "text": "Days 1–30 depend on client-side actions listed earlier. Slippage there moves everything right."
+    }
+   ],
+   "image": "/slides/slide-69.webp"
+  },
+  {
+   "n": 70,
+   "chapter": "plan",
+   "title": "What we would report, and what we would stop reporting",
+   "notes": "Getting agreement on this slide before signing protects the relationship at the first review.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Report from month one"
+    },
+    {
+     "type": "text",
+     "text": "Stop reporting"
+    },
+    {
+     "type": "text",
+     "text": "Cost per booking, by product\nCost per MQL and per SQL\nQualified lead rate out of total leads\nWeekday against weekend occupancy\nDirect bookings against aggregator share\nLanding page view rate, target 60–70%\nRevenue per booking, before and after"
+    },
+    {
+     "type": "text",
+     "text": "Blended Google conversions\nAny conversion value from the current setup\nImpressions and reach as headline numbers\nCost per lead without a quality measure behind it\nAnything that mixes the three resorts together\nAnything from before the fix, compared to after it"
+    },
+    {
+     "type": "text",
+     "text": "Expect the numbers to look worse before they look better. Conversions will fall sharply when the false ones are removed. Leads will look more expensive when they are counted honestly. That is the system starting to tell the truth, and it should be agreed now rather than explained later."
+    },
+    {
+     "type": "text",
+     "text": "One month of clean data is the baseline everything after is measured against."
+    }
+   ],
+   "image": "/slides/slide-70.webp"
+  },
+  {
+   "n": 71,
+   "chapter": "plan",
+   "title": "What we would take on",
+   "notes": "Naming what is out of scope, especially the rating, is what stops us being held responsible for something we cannot control.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Measurement"
+    },
+    {
+     "type": "text",
+     "text": "Performance media"
+    },
+    {
+     "type": "text",
+     "text": "Landing pages"
+    },
+    {
+     "type": "text",
+     "text": "Pixel consolidation, conversion rebuild, cross-domain tracking, Conversions API, CRM setup and integration, reporting."
+    },
+    {
+     "type": "text",
+     "text": "Meta and Google, restructured by product and audience, with a creative testing cadence and monthly reallocation."
+    },
+    {
+     "type": "text",
+     "text": "Four pages, built and tested, with the booking flow kept inside the site."
+    },
+    {
+     "type": "text",
+     "text": "Brand and identity"
+    },
+    {
+     "type": "text",
+     "text": "Social and content"
+    },
+    {
+     "type": "text",
+     "text": "Not in scope"
+    },
+    {
+     "type": "text",
+     "text": "Peak-day capacity management and the guest experience behind the 3.7 rating. We will flag it every month, but it is an operations decision."
+    },
+    {
+     "type": "text",
+     "text": "Territory, positioning line, tone of voice, visual language, logo system, the named spaces reclaimed."
+    },
+    {
+     "type": "text",
+     "text": "Content pillars, cadence, the UGC engine, creator programme, and a library built around the descent."
+    },
+    {
+     "type": "text",
+     "text": "Two decks follow this audit: a branding deck and a social media deck, both built on whichever territory is chosen today."
+    },
+    {
+     "type": "text",
+     "text": "Commercials to follow separately."
+    }
+   ],
+   "image": "/slides/slide-71.webp"
+  },
+  {
+   "n": 72,
+   "chapter": "plan",
+   "title": "What we need from you",
+   "notes": "Push hard for the founder interview. It is the cheapest and most defensible brand asset available.",
+   "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "What",
+       "When",
+       "Why it blocks us"
+      ],
+      [
+       "A decision on the brand territory",
+       "Today",
+       "Both follow-on decks are built on it"
+      ],
+      [
+       "Admin access to Meta, Google, the site and Djubo",
+       "Week 1",
+       "Nothing in the fix list can start without it"
+      ],
+      [
+       "Confirmation of which Meta pixel is canonical",
+       "Week 1",
+       "Reporting stays unreliable until resolved"
+      ],
+      [
+       "Whether Djubo can be embedded on your plan",
+       "Week 1",
+       "Decides the booking event route"
+      ],
+      [
+       "A named CRM owner at the resort",
+       "Week 1",
+       "A CRM without an owner becomes an empty database"
+      ],
+      [
+       "Booking mix by product, last 12 months",
+       "Week 2",
+       "Confirms or kills the rain-dance reading"
+      ],
+      [
+       "Enquiry sources and weekday occupancy",
+       "Week 2",
+       "Sets the baseline we will be judged against"
+      ],
+      [
+       "Photography and video of the cave interiors, the amphitheatre and the spa",
+       "Week 2",
+       "The brand story cannot be told without it"
+      ],
+      [
+       "Thirty minutes with whoever built the cave",
+       "Week 3",
+       "The origin story is undocumented and it is your most valuable asset"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "text": "The last one matters more than it sounds. Who built it, when, why, what it was before, what \"Guhantara\" means, who chose the Sanskrit names — none of it exists in writing anywhere. It is the one story no competitor can ever tell."
+    },
+    {
+     "type": "text",
+     "text": "Everything above is either a decision or an access request. None of it is a cost."
+    }
+   ],
+   "image": "/slides/slide-72.webp"
+  },
+  {
+   "n": 73,
+   "chapter": "close",
+   "title": "You already have the demand. What you do not have is a way to see it.",
+   "notes": "End on the asset, not the faults. The room should leave feeling that they own something rare and have been underselling it, which is a far better place to start a relationship than feeling audited.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "ALTTRED NEXXUS  ×  GUHANTARA"
+    },
+    {
+     "type": "text",
+     "text": "Twenty-one months, ₹45.65 lakh, 21,392 reviews and a cave nobody else in India has. Build the measurement, tell the story that is actually yours, and every rupee after this one starts working harder than the ones before it."
+    },
+    {
+     "type": "text",
+     "text": "Territory decision · account access · a name for the CRM"
+    },
+    {
+     "type": "text",
+     "text": "29 September 2026"
+    }
+   ],
+   "image": "/slides/slide-73.webp"
+  }
+ ]
+}
