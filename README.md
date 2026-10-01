@@ -1,17 +1,10 @@
-# Guhantara — Performance Audit showcase
+# Guhantara — Pitch files
 
-A Next.js site presenting the **Guhantara Performance Audit (September 2026)** by Alttred Nexxus, along with the Guhantara films and reels.
+A one-page Next.js site for sharing the Guhantara pitch files:
 
-## What's on the page
-
-- **Hero** with the first film playing in the background.
-- **Highlights** rebuilt as web sections: the finding, reputation, the discount loop, the Meta account (with an interactive monthly spend chart), the Google proofs, the broken booking chain, the website, brand territories, weekday buyers and the 90-day / six-month plan.
-- **Films**: three 16:9 films and three 9:16 reels, which play with sound when clicked. Only one plays at a time.
-- **Full audit**: all 73 slides grouped into chapters. Each slide comes with its presenter note and its text and tables, which can be expanded.
-- **Presenter mode**: a full-screen deck viewer.
-  - Arrow keys, PageUp / PageDown or swipe to move between slides.
-  - `N` shows or hides the presenter notes.
-  - `Esc` closes the viewer.
+- **Films**: three 16:9 videos.
+- **Reels**: three 9:16 videos.
+- **Presentation**: the Performance Audit (73 slides). It has a full-screen slide viewer, a download of the original `.pptx` and a link to the Canva version.
 
 ## Run it
 
@@ -22,18 +15,17 @@ npm run dev
 
 Then open http://localhost:3000.
 
-## Content and assets
+## Where things live
 
 | Path | What it is |
 | --- | --- |
-| `src/data/deck-content.json` | Text, tables and speaker notes extracted from the `.pptx`, grouped into chapters |
-| `src/data/deck.ts` | Types, chapters, the Meta monthly chart data and the film list |
-| `public/slides/` | Every slide exported from PowerPoint as a 1600px WebP, plus 320px thumbnails |
-| `public/media/` | Web-encoded films and reels (H.264, faststart) and their poster frames |
+| `src/data/deck.ts` | Video titles and durations, plus the presentation's links (`.pptx` and Canva) |
+| `src/data/slides.ts` | Slide titles, used as alt text for the slide images |
+| `public/media/` | Web-encoded videos (H.264, faststart) and their poster frames |
+| `public/slides/` | Slides exported from PowerPoint as WebP, plus thumbnails |
+| `public/files/` | The downloadable `.pptx` |
 
-The original footage in `guhantara assets/` (~420 MB) is git-ignored. The web encodes in `public/media/` add up to about 48 MB.
-
-To re-encode a video:
+The original footage in `guhantara assets/` is git-ignored. To re-encode a video:
 
 ```bash
 ffmpeg -i input.mp4 -vf scale=1280:-2 -c:v libx264 -preset slow -crf 25 -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart output.mp4

@@ -8,12 +8,11 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Guhantara — The account, opened up",
-  description:
-    "A performance audit of Guhantara's brand, website, Meta and Google accounts — and what ₹45.65 lakh actually bought. With the films and reels.",
+  title: "Guhantara — Pitch files",
+  description: "Films, reels and the presentation for Guhantara. Alttred Nexxus, September 2026.",
   openGraph: {
-    title: "Guhantara — The account, opened up",
-    description: "Performance audit, September 2026. Alttred Nexxus × Guhantara.",
+    title: "Guhantara — Pitch files",
+    description: "Films, reels and the presentation. Alttred Nexxus × Guhantara.",
     images: ["/slides/slide-01.webp"],
   },
 };
