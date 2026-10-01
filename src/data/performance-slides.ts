@@ -1,6 +1,6 @@
 export type Slide = { n: number; title: string };
 
-/** Slide titles, used for alt text and the viewer header. Images live in /public/slides. */
+/** Slide titles, used for alt text and the viewer header. Images live in /public/decks/performance. */
 export const slides: Slide[] = [
   { n: 1, title: "The account, opened up" },
   { n: 2, title: "What we looked at" },
@@ -77,5 +77,3 @@ export const slides: Slide[] = [
   { n: 73, title: "You already have the demand. What you do not have is a way to see it." },
 ];
 
-export const slideImage = (n: number) => `/slides/slide-${String(n).padStart(2, "0")}.webp`;
-export const slideThumb = (n: number) => `/slides/thumbs/slide-${String(n).padStart(2, "0")}.webp`;

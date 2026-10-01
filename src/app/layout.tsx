@@ -9,11 +9,11 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   title: "Guhantara — Pitch files",
-  description: "Films, reels and the presentation for Guhantara. Alttred Nexxus, September 2026.",
+  description: "Videos, reels and pitch decks for Guhantara. Alttred Nexxus, September 2026.",
   openGraph: {
     title: "Guhantara — Pitch files",
-    description: "Films, reels and the presentation. Alttred Nexxus × Guhantara.",
-    images: ["/slides/slide-01.webp"],
+    description: "Videos, reels and pitch decks. Alttred Nexxus × Guhantara.",
+    images: ["/media/film-1-landscape.jpg"],
   },
 };
 

@@ -1,16 +1,22 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { slideImage, slideThumb, slides } from "@/data/slides";
+import { deckById, slideImage, slideThumb, type Deck } from "@/data/deck";
 
 const OPEN_EVENT = "deck:open";
 
-export function openSlide(n: number) {
-  window.dispatchEvent(new CustomEvent(OPEN_EVENT, { detail: n }));
+type OpenDetail = { deck: Deck["id"]; n: number };
+
+export function openSlide(deck: Deck["id"], n: number) {
+  window.dispatchEvent(new CustomEvent<OpenDetail>(OPEN_EVENT, { detail: { deck, n } }));
 }
 
 export default function DeckViewer() {
   const [index, setIndex] = useState<number | null>(null);
+  const [deckId, setDeckId] = useState<Deck["id"]>("performance");
+  const deck = deckById(deckId);
+  const slides = deck.slides;
+  const count = slides.length;
   const stripRef = useRef<HTMLDivElement>(null);
   const closeRef = useRef<HTMLButtonElement>(null);
   const touchX = useRef<number | null>(null);
@@ -18,14 +24,17 @@ export default function DeckViewer() {
   const close = useCallback(() => setIndex(null), []);
   const go = useCallback(
     (delta: number) =>
-      setIndex((i) => (i === null ? i : Math.min(slides.length - 1, Math.max(0, i + delta)))),
-    [],
+      setIndex((i) => (i === null ? i : Math.min(count - 1, Math.max(0, i + delta)))),
+    [count],
   );
 
   useEffect(() => {
     const onOpen = (e: Event) => {
-      const n = (e as CustomEvent<number>).detail;
-      setIndex(Math.max(0, slides.findIndex((s) => s.n === n)));
+      const { deck: id, n } = (e as CustomEvent<OpenDetail>).detail;
+      const target = deckById(id);
+      if (!target.slides.length) return;
+      setDeckId(id);
+      setIndex(Math.max(0, target.slides.findIndex((s) => s.n === n)));
     };
     window.addEventListener(OPEN_EVENT, onOpen);
     return () => window.removeEventListener(OPEN_EVENT, onOpen);
@@ -44,7 +53,7 @@ export default function DeckViewer() {
         e.preventDefault();
         go(-1);
       } else if (e.key === "Home") setIndex(0);
-      else if (e.key === "End") setIndex(slides.length - 1);
+      else if (e.key === "End") setIndex(count - 1);
     };
     window.addEventListener("keydown", onKey);
     document.body.style.overflow = "hidden";
@@ -53,7 +62,7 @@ export default function DeckViewer() {
       window.removeEventListener("keydown", onKey);
       document.body.style.overflow = "";
     };
-  }, [isOpen, close, go]);
+  }, [isOpen, close, go, count]);
 
   useEffect(() => {
     if (index === null) return;
@@ -62,19 +71,23 @@ export default function DeckViewer() {
       ?.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
   }, [index]);
 
-  if (index === null) return null;
+  if (index === null || !slides[index]) return null;
   const slide = slides[index];
 
   return (
     <div
       role="dialog"
       aria-modal="true"
-      aria-label={`Slide ${slide.n} of ${slides.length}`}
+      aria-label={`${deck.title}, slide ${slide.n} of ${count}`}
       className="fixed inset-0 z-[100] flex flex-col bg-[#0b0b0a] text-white animate-fade"
     >
       <header className="flex h-16 shrink-0 items-center justify-between gap-4 px-5 md:px-8">
-        <p className="text-sm tabular-nums text-white/60">
-          {slide.n} <span className="text-white/30">/</span> {slides.length}
+        <p className="min-w-0 truncate text-sm text-white/60">
+          <span className="text-white">{deck.title}</span>
+          <span className="mx-2 text-white/30">/</span>
+          <span className="tabular-nums">
+            {slide.n} of {count}
+          </span>
         </p>
         <button
           ref={closeRef}
@@ -101,8 +114,8 @@ export default function DeckViewer() {
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          key={slide.n}
-          src={slideImage(slide.n)}
+          key={`${deckId}-${slide.n}`}
+          src={slideImage(deckId, slide.n)}
           alt={`Slide ${slide.n}: ${slide.title}`}
           className="max-h-full w-auto max-w-full rounded-md animate-fade"
         />
@@ -111,7 +124,7 @@ export default function DeckViewer() {
             key={d}
             type="button"
             onClick={() => go(d)}
-            disabled={d < 0 ? index === 0 : index === slides.length - 1}
+            disabled={d < 0 ? index === 0 : index === count - 1}
             aria-label={d < 0 ? "Previous slide" : "Next slide"}
             className={`absolute top-1/2 hidden size-11 -translate-y-1/2 place-items-center rounded-full bg-white/10 text-white transition hover:bg-white/20 disabled:opacity-0 md:grid ${
               d < 0 ? "left-5" : "right-5"
@@ -138,7 +151,7 @@ export default function DeckViewer() {
             }`}
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={slideThumb(s.n)} alt="" loading="lazy" className="h-10 w-auto sm:h-12" />
+            <img src={slideThumb(deckId, s.n)} alt="" loading="lazy" className="h-10 w-auto sm:h-12" />
           </button>
         ))}
       </div>

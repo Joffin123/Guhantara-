@@ -73,9 +73,9 @@ export default function Films() {
 
   return (
     <>
-      <section id="films" className="scroll-mt-16 py-20 md:py-28">
+      <section id="videos" className="scroll-mt-16 py-20 md:py-28">
         <div className="wrap">
-          <SectionTitle title="Films" meta={`${landscape.length} videos · 16:9`} />
+          <SectionTitle title="Videos" meta={`${landscape.length} videos · 16:9`} />
           <div className="mt-10 grid gap-x-8 gap-y-12 lg:grid-cols-3">
             <div className="lg:col-span-2">
               <VideoCard film={first} index={1} large />
