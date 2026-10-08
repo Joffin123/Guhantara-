@@ -1,5 +1,8 @@
 import { slides as performanceSlides } from "./performance-slides";
 
+/** Prefix a /public path with the app basePath (raw <video>/<a>/<img> don't get it automatically). */
+export const asset = (path: string) => `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${path}`;
+
 export type Film = {
   id: string;
   src: string;
@@ -10,12 +13,12 @@ export type Film = {
 };
 
 export const films: Film[] = [
-  { id: "film-1", src: "/media/film-1-landscape.mp4", poster: "/media/film-1-landscape.jpg", title: "Leave the desk", duration: "0:38", orientation: "landscape" },
-  { id: "film-2", src: "/media/film-2-landscape.mp4", poster: "/media/film-2-landscape.jpg", title: "Work from the cave", duration: "0:32", orientation: "landscape" },
-  { id: "film-3", src: "/media/film-3-landscape.mp4", poster: "/media/film-3-landscape.jpg", title: "The other Bangalore", duration: "0:34", orientation: "landscape" },
-  { id: "reel-1", src: "/media/reel-1.mp4", poster: "/media/reel-1.jpg", title: "A hidden world, carved by nature", duration: "0:30", orientation: "portrait" },
-  { id: "reel-2", src: "/media/reel-2.mp4", poster: "/media/reel-2.jpg", title: "Where nature meets adventure", duration: "0:25", orientation: "portrait" },
-  { id: "reel-3", src: "/media/reel-3.mp4", poster: "/media/reel-3.jpg", title: "Beyond the ordinary", duration: "0:36", orientation: "portrait" },
+  { id: "film-1", src: asset("/media/film-1-landscape.mp4"), poster: asset("/media/film-1-landscape.jpg"), title: "Leave the desk", duration: "0:38", orientation: "landscape" },
+  { id: "film-2", src: asset("/media/film-2-landscape.mp4"), poster: asset("/media/film-2-landscape.jpg"), title: "Work from the cave", duration: "0:32", orientation: "landscape" },
+  { id: "film-3", src: asset("/media/film-3-landscape.mp4"), poster: asset("/media/film-3-landscape.jpg"), title: "The other Bangalore", duration: "0:34", orientation: "landscape" },
+  { id: "reel-1", src: asset("/media/reel-1.mp4"), poster: asset("/media/reel-1.jpg"), title: "A hidden world, carved by nature", duration: "0:30", orientation: "portrait" },
+  { id: "reel-2", src: asset("/media/reel-2.mp4"), poster: asset("/media/reel-2.jpg"), title: "Where nature meets adventure", duration: "0:25", orientation: "portrait" },
+  { id: "reel-3", src: asset("/media/reel-3.mp4"), poster: asset("/media/reel-3.jpg"), title: "Beyond the ordinary", duration: "0:36", orientation: "portrait" },
 ];
 
 export type DeckFile = { label: string; ext: "pptx" | "pdf"; href: string; size: string };
@@ -39,8 +42,8 @@ export const decks: Deck[] = [
     date: "September 2026",
     slides: performanceSlides,
     files: [
-      { label: "PowerPoint", ext: "pptx", href: "/files/Guhantara-Performance-Audit-SEP26.pptx", size: "446 KB" },
-      { label: "PDF", ext: "pdf", href: "/files/Guhantara-Performance-Audit-SEP26.pdf", size: "630 KB" },
+      { label: "PowerPoint", ext: "pptx", href: asset("/files/Guhantara-Performance-Audit-SEP26.pptx"), size: "446 KB" },
+      { label: "PDF", ext: "pdf", href: asset("/files/Guhantara-Performance-Audit-SEP26.pdf"), size: "630 KB" },
     ],
   },
   {
@@ -56,5 +59,5 @@ export const decks: Deck[] = [
 ];
 
 export const deckById = (id: Deck["id"]) => decks.find((d) => d.id === id)!;
-export const slideImage = (deck: Deck["id"], n: number) => `/decks/${deck}/slide-${String(n).padStart(2, "0")}.webp`;
-export const slideThumb = (deck: Deck["id"], n: number) => `/decks/${deck}/thumbs/slide-${String(n).padStart(2, "0")}.webp`;
+export const slideImage = (deck: Deck["id"], n: number) => asset(`/decks/${deck}/slide-${String(n).padStart(2, "0")}.webp`);
+export const slideThumb = (deck: Deck["id"], n: number) => asset(`/decks/${deck}/thumbs/slide-${String(n).padStart(2, "0")}.webp`);

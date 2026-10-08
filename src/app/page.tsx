@@ -2,6 +2,7 @@ import DeckViewer from "@/components/DeckViewer";
 import Decks from "@/components/Decks";
 import Films from "@/components/Films";
 import SiteNav from "@/components/SiteNav";
+import { asset } from "@/data/deck";
 
 export default function Home() {
   return (
@@ -11,8 +12,8 @@ export default function Home() {
         <section id="top" className="relative isolate flex min-h-[100svh] flex-col justify-end overflow-hidden">
           <video
             className="absolute inset-0 -z-20 size-full object-cover"
-            src="/media/film-1-landscape.mp4"
-            poster="/media/film-1-landscape.jpg"
+            src={asset("/media/film-1-landscape.mp4")}
+            poster={asset("/media/film-1-landscape.jpg")}
             autoPlay
             muted
             loop
